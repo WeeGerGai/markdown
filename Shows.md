@@ -1,0 +1,1062 @@
+ - [k] KEY
+	- [*] COMPLETED
+		- [x] COMPLETED EPISODE
+		- [ ] UNCOMPLETED EPISODE
+	- [u] WATCHING/READING
+	- [b] PLAN TO WATCH/READ
+	- [d] DROPPED
+	- [?] ON HOLD / UNCERTAIN
+	- [!] ISSUE
+
+ - [I] Movies:
+	- [*] American Psycho
+	- [*] Paddington
+		- [*] Paddington 1
+		- [*] Paddington 2
+	- [b] Smurfs
+		- [b] Smurfs 1
+		- [b] Smurfs 2
+	- [*] Chicken Run 
+	- [*] Yes Man
+	- [b] Wolf of Wall-Street
+
+ - [I] Shows:
+	- [b] CatDog
+		- [b] Season 1
+			- [ ] Episode 1 - Dog Gone / Fan Mail / All You Can't Eat
+			- [ ] Episode 2 - Flea or Die! / CatDog Food
+			- [ ] Episode 3 - The Island / All You Need is Lube
+			- [ ] Episode 4 - Shriek Loves Dog / Work Force
+			- [ ] Episode 5 - Diamond Fever / The Pet
+			- [ ] Episode 6 - Party Animal / Mush, Dog, Mush!
+			- [ ] Episode 7 - Armed and Dangerous / Fistful of Mail!
+			- [ ] Episode 8 - Pumped / Dummy Dummy
+			- [ ] Episode 9 - Squirrel Dog / Brother's Day
+			- [ ] Episode 10 - Escape from the Deep End / The Collector
+			- [ ] Episode 11 - Full Moon Fever / War of the CatDog
+			- [ ] Episode 12 - CatDog's End / Siege on Fort CatDog
+			- [ ] Episode 13 - Safety Dog / Dog Come Home!
+			- [ ] Episode 14 - Nightmare / CatDogPig
+			- [ ] Episode 15 - New Neighbors / Dead Weight
+			- [ ] Episode 16 - Neferkitty / Curiosity Almost Killed the Cat
+			- [ ] Episode 17 - Home is Where the Dirt is / New Leash on Life
+			- [ ] Episode 18 - Just Say CatDog Sent Ya / Dog's Strange Condition
+			- [ ] Episode 19 - Smarter than the Average Dog / CatDog Doesn't Live Here Anymore
+			- [ ] Episode 20 - All About Cat / Trespassing
+		- [b] Season 2
+			- [ ] Episode 1 - Send in the CatDog / Fishing for Trouble/ Fetch
+			- [ ] Episode 2 - The Lady is a Shriek / Dog the Mighty
+			- [ ] Episode 3 - Hail the Great Meow Woof / Battle of the Bands
+			- [ ] Episode 4 - Adventures in Greaser Sitting / The Cat ClubCat Diggety Dog
+			- [ ] Episode 5 - Climb Every CatDog / Canine Mutiny
+			- [ ] Episode 6 - Fred the Flying Fish / CatDog Divided
+			- [ ] Episode 7 - The Unnatural / Dog Ate It / Dopes on Slopes
+			- [ ] Episode 8 - Spaced Out / Nine Lives
+			- [ ] Episode 9 - Dem Bones / Winslow's Home Videos / You're Fired
+			- [ ] Episode 10 - Showdown at Hole 18 / Sneezie Dog
+			- [ ] Episode 11 - It's a Wonderful Half Life / Shepherd Dog
+			- [ ] Episode 12 - Surfin' CatDog / Guess Who's Going to Be Dinner!
+			- [ ] Episode 13 - Dog Power / It's a Jungle in Here
+			- [ ] Episode 14 - The House of CatDog / CatDog Campers
+			- [ ] Episode 15 - Let the Games Begin / Winslow Falls in Love
+			- [ ] Episode 16 - Extra! Extra! / CatDog Squared
+			- [ ] Episode 17 - A Very CatDog Christmas
+			- [ ] Episode 18 - Royal Dog / Springtime for CatDog
+			- [ ] Episode 19 - A Dog Ate My Homework / The End
+			- [ ] Episode 20 - Cliff's Little Secret / Freak Show
+		- [b] Season 3
+			- [ ] Episode 1 - Sumo Enchanted Evening / Hotel CatDog
+			- [ ] Episode 2 - Rodeo CatDog / Teeth for Two
+			- [ ] Episode 3 - Sweet and Lola / Rich Shriek, Poor Shriek
+			- [ ] Episode 4 - CatDogula
+			- [ ] Episode 5 - Remain Seated / CatDog Catcher
+			- [ ] Episode 6 - Talkin' Turkey
+			- [ ] Episode 7 - Shriek on Ice / No Thanks for the Memories
+			- [ ] Episode 8 - CatDog 3001 / Cloudbursting
+			- [ ] Episode 9 - Fire Dog / Dog Show
+			- [ ] Episode 10 - The Geekers / The Golden Hydrant
+			- [ ] Episode 11 - Lube in Love / Picture This
+			- [ ] Episode 12 - Stunt CatDog / Greasers in the Mist
+			- [ ] Episode 13 - Doo Wop Diggety / CatDogumentary
+			- [ ] Episode 14 - Kooky Prank Day / Back to School
+			- [ ] Episode 15 - Monster Truck Folly / CatDog's Gold
+			- [ ] Episode 16 - Silents Please! / Gorilla My Dreams
+			- [ ] Episode 17 - Seeing Eye Dog / Beware of Cliff
+			- [ ] Episode 18 - Rinky Dinks / Hypno-Teased
+			- [ ] Episode 19 - CatDog Candy / Movin' on Up
+			- [ ] Episode 20 - New Cat in Town / CatDog's Booty
+		- [b] Season 4
+			- [ ] Episode 1 - CatDog and the Great Parent Mystery I
+			- [ ] Episode 2 - CatDog and the Great Parent Mystery II
+			- [ ] Episode 3 - CatDog and the Great Parent Mystery III
+			- [ ] Episode 4 - Harasslin' Match / Dog the Not-So-Mighty
+			- [ ] Episode 5 - Mean Bob, We Hardly Knew Ye / CatDog in Winslowland
+			- [ ] Episode 6 - Cat Gone Bad / The Old CatDog and the Sea
+			- [ ] Episode 7 - Cone Dog / The Ballad of Ol' 159
+			- [ ] Episode 8 - Vexed of Kin / Meat, Dog's Friends
+	- [*] Gravity Falls
+		- [*] Season 1
+			- [x] Episode 1 - Tourist Trapped
+			- [x] Episode 2 - The Legend of the Gobblewonker
+			- [x] Episode 3 - Headhunters
+			- [x] Episode 4 - The Hand That Rocks the Mabel
+			- [x] Episode 5 - The Inconveniencing 
+			- [x] Episode 6 - Dipper vs. Manliness
+			- [x] Episode 7 - Double Dipper
+			- [x] Episode 8 - Irrational Treasure
+			- [x] Episode 9 - The Time Traveler's Pig
+			- [x] Episode 10 - Fight Fighters
+			- [x] Episode 11 - Little Dipper
+			- [x] Episode 12 - Summerween
+			- [x] Episode 13 - Boss Mabel
+			- [x] Episode 14 - Bottomless Pit!
+			- [x] Episode 15 - The Deep End
+			- [x] Episode 16 - Carpet Diem
+			- [x] Episode 17 - Boyz Crazy
+			- [x] Episode 18 - Land Before Swine
+			- [x] Episode 19 - Dreamscaperers
+			- [x] Episode 20 - Gideon Rises
+		- [*] Season 2
+			- [x] Episode 1 - Scary-oke
+			- [x] Episode 2 - Into the Bunker
+			- [x] Episode 3 - The Golf War
+			- [x] Episode 4 - Sock Opera
+			- [x] Episode 5 - Soos and the Real Girl
+			- [x] Episode 6 - Little Gift Shop of Horrors
+			- [x] Episode 7 - Society of the Blind Eye
+			- [x] Episode 8 - Blendin's Game
+			- [x] Episode 9 - The Love God
+			- [x] Episode 10 - Northwest Mansion Mystery
+			- [x] Episode 11 - Not What He Seems
+			- [x] Episode 12 - A Tale of Two Stans
+			- [x] Episode 13 - Dungeons, Dungeons & More Dungeons
+			- [x] Episode 14 - The Stanchurian Candidaate
+			- [x] Episode 15 - The Last Mabelcorn
+			- [x] Episode 16 - Roadside Attraction
+			- [x] Episode 17 - Dipper and Mabel vs. the Future
+			- [x] Episode 18 -  Weirdmageddon: Part 1
+			- [x] Episode 19 - Weirdmageddon: Escape from Reality
+			- [x] Episode 20 - Weirdmageddon: Take Back the Falls
+			- [x] Episodes 21 - Weirdmageddon: Somewhere in the Woods 
+	- [b] Gumball
+		- [*] Season 1
+			- [x] Episode 1 - The DVD
+			- [x] Episode 2 - The Responsible
+			- [x] Episode 3 - The Third
+			- [x] Episode 4 - The Debt
+			- [x] Episode 5 - The End
+			- [x] Episode 6 - The Dress
+			- [x] Episode 7 - The Quest
+			- [x] Episode 8 - The Spoon
+			- [x] Episode 9 - The Pressure
+			- [x] Episode 10 - The Painting
+			- [x] Episode 11 - The Laziest
+			- [x] Episode 12 - The Ghost
+			- [x] Episode 13 - The Mystery
+			- [x] Episode 14 - The Prank
+			- [x] Episode 15 - The Gi
+			- [x] Episode 16 - The Kiss
+			- [x] Episode 17 - The Party
+			- [x] Episode 18 - The Refund
+			- [x] Episode 19 - The Robot
+			- [x] Episode 20 - The Picnic
+			- [x] Episode 21 - The Goons
+			- [x] Episode 22 - The Secret
+			- [x] Episode 23 - The Sock
+			- [x] Episode 24 - The Genius
+			- [x] Episode 25 - The Poltergeist
+			- [x] Episode 26 - The Mustache
+			- [x] Episode 27 - The Date
+			- [x] Episode 28 - The Club
+			- [x] Episode 29 - The Wandd
+			- [x] Episode 30 - The Ape
+			- [x] Episode 31 - The Car
+			- [x] Episode 32 - The Curse
+			- [x] Episode 33 - The Microwave
+			- [x] Episode 34 - The Meddler
+			- [x] Episode 35 - The Helmet
+			- [x] Episode 36 - The Fight
+		- [*] Season 2
+			- [x] Episode 1 - The Remote
+			- [x] Episode 2 - The Colossus
+			- [x] Episode 3 - The Knights
+			- [x] Episode 4 - The Fridge
+			- [x] Episode 5 - The Flower
+			- [x] Episode 6 - The Banana
+			- [x] Episode 7 - The Phone
+			- [x] Episode 8 - The Job
+			- [x] Episode 9 - Halloween
+			- [x] Episode 10 - The Treasure
+			- [x] Episode 11 - The Apology
+			- [x] Episode 12 - The Words
+			- [x] Episode 13-  The Skull
+			- [x] Episode 14 - The Bet
+			- [x] Episode 15 - Christmas
+			- [x] Episode 16 - The Watch
+			- [x] Episode 17 - The Bumpkin
+			- [x] Episode 18 - The Flakers
+			- [x] Episode 19 - The Authority
+			- [x] Episode 20 - The Virus
+			- [x] Episode 21 - The Pony
+			- [x] Episode 22 - The Hero
+			- [x] Episode 23 - The Dream
+			- [x] Episode 24 - The Sidekick
+			- [x] Episode 25 - The Photo
+			- [x] Episode 26 - The Tag
+			- [x] Episode 27 - The Storm
+			- [x] Episode 28 - The Lesson
+			- [x] Episode 29 - The Game
+			- [x] Episode 30 - The Limit
+			- [x] Episode 31 - The Voice
+			- [x] Episode 32 - The Promise
+			- [x] Episode 33 - The Castle
+			- [x] Episode 34 - The Boombox
+			- [x] Episode 35 - The Tape
+			- [x] Episode 36 - The Sweaters
+			- [x] Episode 37 - The Internet
+			- [x] Episode 38 - The Plan
+			- [x] Episode 39 - The World
+			- [x] Episode 40 - The Finale
+		- [*] Season 3
+			- [x] Episode 1 - The Kids
+			- [x] Episode 2 - The Fan
+			- [x] Episode 3 - The Coach
+			- [x] Episode 4 - The Joy
+			- [x] Episode 5 - The Puppy
+			- [x] Episode 6 - The Recipe
+			- [x] Episode 7 - The Name
+			- [x] Episode 8 - The Extras
+			- [x] Episode 9 - The Gripes
+			- [x] Episode 10 - The Vacation
+			- [x] Episode 11 - The Fraud
+			- [x] Episode 12 - The Void
+			- [x] Episode 13-  The Boss
+			- [x] Episode 14 - The Move
+			- [x] Episode 15 - The Law
+			- [x] Episode 16 - The Allergy
+			- [x] Episode 17 - The Mothers
+			- [x] Episode 18 - The Password
+			- [x] Episode 19 - The Procrastinators
+			- [x] Episode 20 - The Shell
+			- [x] Episode 21 - The Burden
+			- [x] Episode 22 - The Bros
+			- [x] Episode 23 - The Mirror
+			- [x] Episode 24 - The Man
+			- [x] Episode 25 - The Pizza
+			- [x] Episode 26 - The Lie
+			- [x] Episode 27 - The Butterfly
+			- [x] Episode 28 - The Question
+			- [x] Episode 29 - The Saint
+			- [x] Episode 30 - The Friend
+			- [x] Episode 31 - The Oracle
+			- [x] Episode 32 - The Safety
+			- [x] Episode 33 - The Society
+			- [x] Episode 34 - The Spoiler
+			- [x] Episode 35 - The Countdown
+			- [x] Episode 36 - The Nobody
+			- [x] Episode 37 - The Downer
+			- [x] Episode 38 - The Egg
+			- [x] Episode 39 - The Triangle
+			- [x] Episode 40 - The Money
+		- [*] Season 4
+			- [x] Episode 1 - The Return
+			- [x] Episode 2 - The Nemesis
+			- [x] Episode 3 - The Crew
+			- [x] Episode 4 - The Others
+			- [x] Episode 5 - The Signature
+			- [x] Episode 6 - The Check
+			- [x] Episode 7 - The Pest
+			- [x] Episode 8 - The Sale
+			- [x] Episode 9 - The Gift
+			- [x] Episode 10 - The Parking
+			- [x] Episode 11 - The Routine
+			- [x] Episode 12 - The Upgrade
+			- [x] Episode 13-  The Comic
+			- [x] Episode 14 - The Romantic
+			- [x] Episode 15 - The Uploads
+			- [x] Episode 16 - The Apprentice
+			- [x] Episode 17 - The Hug
+			- [x] Episode 18 - The Wicked
+			- [x] Episode 19 - The Traitor
+			- [x] Episode 20 - The Origins I
+			- [x] Episode 21 - The Origins II
+			- [x] Episode 22 - The Girlfriend
+			- [x] Episode 23 - The Advice
+			- [x] Episode 24 - The Signal
+			- [x] Episode 25 - The Parasite
+			- [x] Episode 26 - The Love
+			- [x] Episode 27 - The Awkwardness
+			- [x] Episode 28 - The Nest
+			- [x] Episode 29 - The Points
+			- [x] Episode 30 - The Bus
+			- [x] Episode 31 - The Night
+			- [x] Episode 32 - The Misunderstanding
+			- [x] Episode 33 - The Roots
+			- [x] Episode 34 - The Blame
+			- [x] Episode 35 - The Slap
+			- [x] Episode 36 - The Detective
+			- [x] Episode 37 - The Fury
+			- [x] Episode 38 - The Compilation
+			- [x] Episode 39 - The Scam
+			- [x] Episode 40 - The Disaster
+		- [*] Season 5
+			- [x] Episode 1 - The Rerun
+			- [x] Episode 2 - The Stories
+			- [x] Episode 3 - The Guy
+			- [x] Episode 4 - The Boredom
+			- [x] Episode 5 - The Vision
+			- [x] Episode 6 - The Choices
+			- [x] Episode 7 - The Code
+			- [x] Episode 8 - The Test
+			- [x] Episode 9 - The Slide
+			- [x] Episode 10 - The Loophole
+			- [x] Episode 11 - The Copycats
+			- [x] Episode 12 - The Potato
+			- [x] Episode 13-  The Fuss
+			- [x] Episode 14 - The Outside
+			- [x] Episode 15 - The Vase
+			- [x] Episode 16 - The Matchmaker
+			- [x] Episode 17 - The Box
+			- [x] Episode 18 - The Console
+			- [x] Episode 19 - The Ollie
+			- [x] Episode 20 - The Caatfish
+			- [x] Episode 21 - The Cycle
+			- [x] Episode 22 - The Start
+			- [x] Episode 23 - The Grades
+			- [x] Episode 24 - The Diet
+			- [x] Episode 25 - The Ex
+			- [x] Episode 26 - The Sorcerer
+			- [x] Episode 27 - The Menu
+			- [x] Episode 28 - The Uncle
+			- [x] Episode 29 - The Weirdo
+			- [x] Episode 30 - The Heist
+			- [x] Episode 31 - The Singing
+			- [x] Episode 32 - The Best
+			- [x] Episode 33 - The Worst
+			- [x] Episode 34 - The Deal
+			- [x] Episode 35 - The Petals
+			- [x] Episode 36 - The Puppets
+			- [x] Episode 37 - The Nuisance
+			- [x] Episode 38 - The Line
+			- [x] Episode 39 - The List
+			- [x] Episode 40 - The News
+		- [*] Season 6
+			- [x] Episode 1 - The Rival
+			- [x] Episode 2 - The Lady
+			- [x] Episode 3 - The Sucker
+			- [x] Episode 4 - The Vegging
+			- [x] Episode 5 - The One
+			- [x] Episode 6 - The Father
+			- [x] Episode 7 - The Cringe
+			- [x] Episode 8 - The Cage
+			- [x] Episode 9 - The Faith
+			- [x] Episode 10 - The Candidate
+			- [x] Episode 11 - The Anybody
+			- [x] Episode 12 - The Pact
+			- [x] Episode 13-  The Neighbor
+			- [x] Episode 14 - The Shippening
+			- [x] Episode 15 - The Brain
+			- [x] Episode 16 - The Parents
+			- [x] Episode 17 - The Founder
+			- [x] Episode 18 - The Schooling
+			- [x] Episode 19 - The Intelligence
+			- [x] Episode 20 - The Potion
+			- [x] Episode 21 - The Spinoffs
+			- [x] Episode 22 - The Transformation
+			- [x] Episode 23 - The Understanding
+			- [x] Episode 24 - The Ad
+			- [x] Episode 25 - The Ghouls
+			- [x] Episode 26 - The Stink
+			- [x] Episode 27 - The Awareness
+			- [x] Episode 28 - The Slip
+			- [x] Episode 29 - The Drama
+			- [x] Episode 30 - The Buddy
+			- [x] Episode 31 - The Possession
+			- [x] Episode 32 - The Master
+			- [x] Episode 33 - The Silence
+			- [x] Episode 34 - The Future
+			- [x] Episode 35 - The Wish
+			- [x] Episode 36 - The Factory
+			- [x] Episode 37 - The Agent
+			- [x] Episode 38 - The Web
+			- [x] Episode 39 - The Mess
+			- [x] Episode 40 - The Heart
+			- [x] Episode 41 - The Revolt
+			- [x] Episode 42 - The Decisions
+			- [x] Episode 43 - The BFFs
+			- [x] Episode 44 - The Inquisition
+	- [*] Smiling Friends
+		- [*] Season 1
+			- [x] Episode 1 - Desmond's Big Day Out
+			- [x] Episode 2 - Mr. Frog
+			- [x] Episode 3 - Shrimp's Odyssey
+			- [x] Episode 4 - A Silly Halloween Special
+			- [x] Episode 5 -  Who Violently Murdered Simon S. Salty
+			- [x] Episode 6 - Enchanted Forest
+			- [x] Episode 7 - Frowning Friends
+			- [x] Episode 8 - Charlie Dies and Doesn't Come Back
+			- [x] Episode 9 - The Smiling Friends Go to Brazil!
+		- [*] Season 2 
+			- [x] Episode 1 - Gwimbly: Definitive Remastered Enhanced Extended Edition with DX 4K (Anniversary Director's Cut)
+			- [x] Episode 2 - Mr. President
+			- [x] Episode 3 - A Allan Adventure
+			- [x] Episode 4 - Erm, the Boss Finds Love?
+			- [x] Episode 5 - Brother's Egg
+			- [x] Episode 6 - Charlie, Pim, and Bill vs. the Alien
+			- [x] Episode 7 - The Magical Rd Jewel AKA Tyler Gets Fired
+			- [x] Episode 8 - Pim Finally Turns Green
+	- [?] Regular Show: 
+		- [?] Series
+			- [*] Season 1
+				- [x] Episode 1 - The Power
+				- [x] Episode 2 - Just Set Up the Chairs
+				- [x] Episode 3 - Caffeinated Concert Tickets
+				- [x] Episode 4 - Death Punchies
+				- [x] Episode 5 - Free Cake
+				- [x] Episode 6 - Meat Your Maker
+				- [x] Episode 7 - Grilled Cheese DDeluxe
+				- [x] Episode 8 - The Unicorns Have Got to Go
+				- [x] Episode 9 - Prank Callers
+				- [x] Episode 10 - Don
+				- [x] Episode 11 - Rigby's Body
+				- [x] Episode 12 - Mordecai and the Rigbys
+			- [*] Season 2
+				- [x] Episode 1 - Ello Gov'nor
+				- [x] Episode 2 - It's Time
+				- [x] Episode 3 - Appreciation Day
+				- [x] Episode 4 - Peeps
+				- [x] Episode 5 - Dizzy
+				- [x] Episode 6 - My Mom
+				- [x] Episode 7 - High Score
+				- [x] Episode 8 - Rage Against the TV
+				- [x] Episode 9 - Party Pete
+				- [x] Episode 10 - Brain Eraser
+				- [x] Episode 11 - Benson Be Gone
+				- [x] Episode 12 - But I Have a Receipt
+				- [x] Episode 13 - This Is My Jam
+				- [x] Episode 14 - Muscle Woman
+				- [x] Episode 15 - Temp Check
+				- [x] Episode 16 - Jinx
+				- [x] Episode 17 - See You There
+				- [x] Episode 18 - Do Me a Solid
+				- [x] Episode 19 - Grave Sights
+				- [x] Episode 20 - Really Real Wrestling
+				- [x] Episode 21 - Over the Top
+				- [x] Episode 22 - The Night Owl
+				- [x] Episode 23 - A Bunch of Baby Ducks
+				- [x] Episode 24 - More Smarter
+				- [x] Episode 25 - First Day
+				- [x] Episode 26 - Go Viral
+				- [x] Episode 27 - Skunked
+				- [x] Episode 28 - Karaoke Video
+			- [?] Season 3
+				- [x] Episode 1 - Stick Hockey
+				- [x] Episode 2 - Bet to Be Blonde
+				- [x] Episode 3 - Skips Strikes
+				- [x] Episode 4 - Terror Tales of the Park I
+				- [x] Episode 5 - Camping Can Be Cool
+				- [x] Episode 6 - Slam Dunk
+				- [x] Episode 7 - Cool Bikes
+				- [x] Episode 8 - House Rules
+				- [x] Episode 9 - Rap It Up
+				- [x] Episode 10 - Cruisin'
+				- [x] Episode 11 - Under the Hood
+				- [x] Episode 12 - Weekend at Benson's
+				- [x] Episode 13 - Fortune Cookie
+				- [x] Episode 14 - Think Positive
+				- [x] Episode 15 - Skips vs. Technology
+				- [x] Episode 16 - Butt Dial
+				- [x] Episode 17 - Eggscellent
+				- [x] Episode 18 - Gut Model
+				- [x] Episode 19 - Video Game Wizards
+				- [x] Episode 20 - Big Winner
+				- [x] Episode 21 - The Best Burger in the World
+				- [x] Episode 22 - Replaced
+				- [x] Episode 23 - Trash Boat
+				- [x] Episode 24 - Fists of Justice
+				- [x] Episode 25 - Yes Dude Yes
+				- [x] Episode 26 - Busted Cart
+				- [x] Episode 27 - Dead at Eight
+				- [ ] Episode 28 - Access Denied
+				- [ ] Episode 29 - Muscle Mentor
+				- [ ] Episode 30 - Trucker Hall of Fame
+				- [ ] Episode 31 - Out of Commission
+				- [ ] Episode 32 - Fancy Restaurant
+				- [ ] Episode 33 - Diary
+				- [ ] Episode 34 - The Best VHS in the World
+				- [ ] Episode 35 - Prankless
+				- [ ] Episode 36 - Death Bear
+				- [ ] Episode 37 - Fuzzy Dice
+				- [ ] Episode 38 - Sugar Rush
+				- [ ] Episode 39 - Bad Kiss
+			- [b] Season 4
+				- [ ] Episode 1 - Exit 9B
+				- [ ] Episode 2 - Starter Pack
+				- [ ] Episode 3 - Terror Tales of the Park II
+				- [ ] Episode 4 - Pie Contest
+				- [ ] Episode 5 - 150 Piece Kit
+				- [ ] Episode 6 - Bald Spot
+				- [ ] Episode 7 - Guy's Night
+				- [ ] Episode 8 - One Pull Up
+				- [ ] Episode 9 - The Christmas Special
+				- [ ] Episode 10 - T.G.I Tuesday
+				- [ ] Episode 11 - Firework Run
+				- [ ] Episode 12 - The Longest Weekend
+				- [ ] Episode 13 - Sandwich of Death
+				- [ ] Episode 14 - Ace Balthazar Lives
+				- [ ] Episode 15 - Do or Diaper
+				- [ ] Episode 16 - Quips
+				- [ ] Episode 17 - Caveman
+				- [ ] Episode 18 - That's My Television
+				- [ ] Episode 19 - A Bunch of Full Grown Geese
+				- [ ] Episode 20 - Fool Me Twice
+				- [ ] Episode 21 - Limousine Lunchtime
+				- [ ] Episode 22 - Picking Up Margaret
+				- [ ] Episode 23 - K.I.L.I.T. Radio
+				- [ ] Episode 24 - Carter and Briggs
+				- [ ] Episode 25 - Skips' Stress
+				- [ ] Episode 26 - Cool Cubed
+				- [ ] Episode 27 - Trailer Trashed
+				- [ ] Episode 28 - Meteor Moves
+				- [ ] Episode 29 - Family BBQ
+				- [ ] Episode 30 - The Last Laserdisc Player
+				- [ ] Episode 31 - Country Club
+				- [ ] Episode 32 - Blind Trust
+				- [ ] Episode 33 - World's Best Boss
+				- [ ] Episode 34 - Last Meal
+				- [ ] Episode 35 - Sleep Fighter
+				- [ ] Episode 36 - Party Re-Pete
+				- [ ] Episode 37 - Steak Me Amadeus
+			- [b] Season 5
+				- [ ] Episode 1 - Laundry Woes
+				- [ ] Episode 2 - Silver Dude
+				- [ ] Episode 3 - Benson's Caar
+				- [ ] Episode 4 - Every Meat Burritos
+				- [ ] Episode 5 - Wall Buddy
+				- [ ] Episode 6 - Skips in Time
+				- [ ] Episode 7 - Survival Skills
+				- [ ] Episode 8 - Terror Tales of the Park III
+				- [ ] Episode 9 - Tants
+				- [ ] Episode 10 - Bank Shot
+				- [ ] Episode 11 - Power Tower
+				- [ ] Episode 12 - The Thanksgiving Special
+				- [ ] Episode 13 - The Heaart of a Stuntman
+				- [ ] Episode 14 - New Year's Kiss
+				- [ ] Episode 15 - Dodge This
+				- [ ] Episode 16 - Portable Toilet
+				- [ ] Episode 17 - The Postcard
+				- [ ] Episode 18 - Rigby in the Sky with Burrito
+				- [ ] Episode 19 - Journey to the Bottom of the Crash Pit
+				- [ ] Episode 20 - Saving Time
+				- [ ] Episode 21 - Guitar of Rock
+				- [ ] Episode 22 - Skips' Story
+				- [ ] Episode 23 - Return of Mordecai and the Rigbys
+				- [ ] Episode 24 - Bad Portrait
+				- [ ] Episode 25 - Viddeo 101
+				- [ ] Episode 26 - I Like You Hi
+				- [ ] Episode 27 - Play date
+				- [ ] Episode 28 - Expert or Liar
+				- [ ] Episode 29 - Catching the Wave
+				- [ ] Episode 30 - Gold Watch
+				- [ ] Episode 31 - Paint Job
+				- [ ] Episode 32 - Take the Cake
+				- [ ] Episode 33 - Skips in the Saddle
+				- [ ] Episode 34 - Thomas Fights Back
+				- [ ] Episode 35 - Bachelor Party! Zingo!!
+				- [ ] Episode 36 - Tent Trouble
+				- [ ] Episode 37 - Real Date
+			- [b] Season 6
+				- [ ] Episode 1 - Maxin' and Relaxin'
+				- [ ] Episode 2 - New Bro on Campus
+				- [ ] Episode 3 - Daddy Issues
+				- [ ] Episode 4 - Terror Tales of the Park IV
+				- [ ] Episode 5 - The End of Muscle Man
+				- [ ] Episode 6 - Lift with Your Back
+				- [ ] Episode 7 - Eileen Flat Screen
+				- [ ] Episode 8 - The Real Thomas
+				- [ ] Episode 9 - The White Elephant Gift Exchange
+				- [ ] Episode 10 - Merry Christmas Mordecai
+				- [ ] Episode 11 - Sad Sax
+				- [ ] Episode 12 - Park Managers' Lunch
+				- [ ] Episode 13 - Mordecai and Rigby Down Under
+				- [ ] Episode 14 - Married and Broke
+				- [ ] Episode 15 - I See Turtles
+				- [ ] Episode 16 - Format Wars II
+				- [ ] Episode 17 - Happy Birthday Song Contest
+				- [ ] Episode 18 - Benson's Suit
+				- [ ] Episode 19 - Gamers Never Say Die
+				- [ ] Episode 20 - 1000th Chopper Flight Party
+				- [ ] Episode 21 - Party Horse
+				- [ ] Episode 22 - Men in Uniform
+				- [ ] Episode 23 - Garage Door
+				- [ ] Episode 24 - Brilliant Century Duck Crisis Special
+				- [ ] Episode 25 - Not Great Double Date
+				- [ ] Episode 26 - Death Kwon Do-Livery
+				- [ ] Episode 27 - Lunch Break
+				- [ ] Episode 28 - Dumped at the Altar
+			- [b] Season 7
+				- [ ] Episode 1 - Dumptown U.S.A.
+				- [ ] Episode 2 - The Parkie Awards
+				- [ ] Episode 3 - The Lunch Club
+				- [ ] Episode 4 - Local News Legend
+				- [ ] Episode 5 - The Dome Experiment Special
+				- [ ] Episode 6 - Birthday Gift
+				- [ ] Episode 7 - Cat Videos
+				- [ ] Episode 8 - Struck by Lightning
+				- [ ] Episode 9 - Terror Tales of the Park V
+				- [ ] Episode 10 - The Return of the Party Horse
+				- [ ] Episode 11 - Sleep Cycle
+				- [ ] Episode 12 - Just Friends
+				- [ ] Episode 13 - Benson's Pig
+				- [ ] Episode 14 - The Eileen Plan
+				- [ ] Episode 15 - Hello China
+				- [ ] Episode 16 - Crazy Fake Plan
+				- [ ] Episode 17 - Win That Prize
+				- [ ] Episode 18 - Snow Tubing
+				- [ ] Episode 19 - Chili Cook Off
+				- [ ] Episode 20 - Donut Factory Holiday
+				- [ ] Episode 21 - Gymblonski
+				- [ ] Episode 22 - Guys Night 2
+				- [ ] Episode 23 - Gaary's Synthesizer
+				- [ ] Episode 24 - California King
+				- [ ] Episode 25 - Cube Bros
+				- [ ] Episode 26 - Maellard's Package
+				- [ ] Episode 27 - Rigby Goes to Prom
+				- [ ] Episode 28 - The Button
+				- [ ] Episode 29 - Favorite Shirt
+				- [ ] Episode 30 - Marvolo the Wizard
+				- [ ] Episode 31 - Pop's Favorite Planet
+				- [ ] Episode 32 - Pam I Am
+				- [ ] Episode 33 - Lame Lockdown
+				- [ ] Episode 34 - VIP Members Only
+				- [ ] Episode 35 - Deez Keys
+				- [ ] Episode 36 - Rigby's Graduation Day Special
+			- [b] Season 8
+				- [ ] Episode 1 - One Space Day at a Time
+				- [ ] Episode 2 - Cool Bro Bots
+				- [ ] Episode 3 - Welcome to Space
+				- [ ] Episode 4 - Space Creds
+				- [ ] Episode 5 - Lost and Found
+				- [ ] Episode 6 - Ugly Moons
+				- [ ] Episode 7 - The Dream Warrior
+				- [ ] Episode 8 - The Brain of Evil
+				- [ ] Episode 9 - Fries Night
+				- [ ] Episode 10 - Spacey McSpaceTree
+				- [ ] Episode 11 - Can You Ear Me Now?
+				- [ ] Episode 12 - Stuck in an Elevator
+				- [ ] Episode 13 - The Space Race
+				- [ ] Episode 14 - Operation Hear No Evil
+				- [ ] Episode 15 - Space Escape
+				- [ ] Episode 16 - New Beds
+				- [ ] Episode 17 - Mordeby and Rigbecai
+				- [ ] Episode 18 - Alpha Dome
+				- [ ] Episode 19 - Terror Taales of the Park VI
+				- [ ] Episode 20 - The Ice Tape
+				- [ ] Episode 21 - The Key to the Universe
+				- [ ] Episode 22 - No Train No Gain
+				- [ ] Episode 23 - Christmas in Space
+				- [ ] Episode 24 - Kill 'Em with Kindness
+				- [ ] Episode 25 - Meet the Seer
+				- [ ] Episode 26 - Cheer Up Pops
+				- [ ] Episode 27 - A Regular Epic Final Battle
+		- [b] The Movie
+	- [u] Sonic Boom 
+		- [u] Season 1
+			- [x] Episode 1 - "The Sidekick"
+			- [x] Episode 2 - "Can an Evil Genius Crash on Your Couch for a Few Days?"
+			- [x] Episode 3 - "Translate This"
+			- [x] Episode 4 - "Buster"
+			- [x] Episode 5 - "My Fair Sticksy"
+			- [!] Episode 6 - "Fortress of Squalitude"
+			- [x] Episode 7 - "Double Doomsday"
+			- [x] Episode 8 - "Eggheads"
+			- [x] Episode 9 - "Guilt Tripping"
+			- [x] Episode 10 - "Dude, Where's my Eggman?"
+			- [x] Episode 11 - "Cowbot"
+			- [x] Episode 12 - "Circus of Plunders"
+			- [x] Episode 13 - "Unlucky Knucles"
+			- [x] Episode 14 - "The Meteor"
+			- [x] Episode 15 - "Aim Low"
+			- [x] Episode 16 - "How to Succeed in Evil Without Really Trying"
+			- [x] Episode 17 - "Don't Judge me"
+			- [x] Episode 18 - "Dr. Eggman's Tomato Sauce"
+			- [x] Episode 19 - "Sole Power"
+			- [x] Episode 20 - "Hedgehog Day"
+			- [x] Episode 21 - "Sleeping Giant"
+			- [x] Episode 22 - "The Curse of Buddy Buddy Temple"
+			- [x] Episode 23 - "Let's Play Musical Friends"
+			- [x] Episode 24 - "Late Fees"
+			- [ ] Episode 25 - "Into the Wilderness"
+			- [ ] Episode 26 - "Eggman Unplugged"
+			- [ ] Episode 27 - "Chez Amy"
+			- [ ] Episode 28 - "Blue with Envy"
+			- [ ] Episode 29 - "Curse of the Cross Eyed Moose"
+			- [ ] Episode 30 - "Chili Dog Day Afternoon"
+			- [ ] Episode 31 - "Closed Door Policy"
+			- [ ] Episode 32 - "Mayor Knuckles"
+			- [ ] Episode 33 - "Eggman the Auteur"
+			- [ ] Episode 34 - "Just a Guy"
+			- [ ] Episode 35 - "Two Good to Be True"
+			- [ ] Episode 36 - "Beyond the Valley of the Cubots"
+			- [ ] Episode 37 - "Next Top Villain"
+			- [ ] Episode 38 - "New Year's Retribution"
+			- [ ] Episode 39 - "Battle of the Boy Bands"
+			- [ ] Episode 40 - "Tails' Crush"
+			- [ ] Episode 41 - "Bro-Down Showdown"
+			- [ ] Episode 42 - "Late Night Wars"
+			- [ ] Episode 43 - "Fire in a Crowded Workshop"
+			- [ ] Episode 44 - "It Wasn't Me, It Was the One-Armed Hedgehog"
+			- [ ] Episode 45 - "Robot Battle Royale"
+			- [ ] Episode 46 - "No Robots Allowed"
+			- [ ] Episode 47 - "'Fuzzy Puppy Buddies'
+			- [ ] Episode 48 - "Designated Heroes" 
+			- [ ] Episode 49 - "Role Models"
+			- [ ] Episode 50 - "Cabin Fever"
+			- [ ] Episode 51 - "Counter Productive"
+			- [ ] Episode 52 - "It Takes a Village to Defeat a Hedgehog"
+		- [b] Season 2
+			- [ ] Episode 1 - "Tommy Thunder: Method Actor"
+			- [ ] Episode 2 - "Spacemageddonocalypse"
+			- [ ] Episode 3 - "Nutwork"
+			- [ ] Episode 4 - "Alone Again, Unnaturally"
+			- [ ] Episode 5 - "The Biggest Fan"
+			- [ ] Episode 6 - "Anything You Can Do, I can Do Worse-er"
+			- [ ] Episode 7 - "I can See Sonic's Fear from Here"
+			- [ ] Episode 8 - "In the Midnight Hour"
+			- [ ] Episode 9 - "Multi-Tails"
+			- [ ] Episode 10 - "Strike!"
+			- [ ] Episode 11 - "The Evil Dr. Orbot"
+			- [ ] Episode 12 - "Knuck Knuck! Who's here?"
+			- [ ] Episode 13 - "Mech Suits Me"
+			- [ ] Episode 14 - "FiendBot"
+			- [ ] Episode 15 - "Og Man Out"
+			- [ ] Episode 16 - "Knine-to-Five Knuckles"
+			- [ ] Episode 17 - "Blackout"
+			- [ ] Episode 18 - "Unnamed Episode"
+			- [ ] Episode 19 - "Robot Employees"
+			- [ ] Episode 20 - "Give Bees a Chance"
+			- [ ] Episode 21 - "Mombot"
+			- [ ] Episode 22 - "Muckfoot"
+			- [ ] Episode 23 - "Nominatus Rising"
+			- [ ] Episode 24 - "Eggman's Brother"
+			- [ ] Episode 25 - "Do Not Disturb"
+			- [ ] Episode 26 - "Robots from the Sky I"
+			- [ ] Episode 27 - "Robots from the Sky II"
+			- [ ] Episode 28 - "Robots from the Sky III"
+			- [ ] Episode 29 - "Robots from the Sky IV"
+			- [ ] Episode 30 - "Flea-ing from Trouble"
+			- [ ] Episode 31 - "Lightning Bowler Society"
+			- [ ] Episode 32 - "Planes, Trains, and Dude-mobiles"
+			- [ ] Episode 33 - "Sticks and Amy's Excellent Staycation"
+			- [ ] Episode 34 - "Inn Sanity"
+			- [ ] Episode 35 - "Mister Eggman"
+			- [ ] Episode 36 - "The Haunted Lair"
+			- [ ] Episode 37 - "Return of the Buddy Buddy Temple of Doom"
+			- [ ] Episode 38 - "Eggman's Anti-Gravity Ray"
+			- [ ] Episode 39 - "Victory"
+			- [ ] Episode 40 - "Three Men and My Baby!"
+			- [ ] Episode 41 - "Where Have All the Sonics Gone?"
+			- [ ] Episode 42 - "If you Build It They Will Race"
+			- [ ] Episode 43 - "Chain Letter"
+			- [ ] Episode 44 - "Vector Detector"
+			- [ ] Episode 45 - "Three Minutes or Less"
+			- [ ] Episode 46 - "Lair on Lockdown"
+			- [ ] Episode 47 - "You and I Bee-come One"
+			- [ ] Episode 48 - "Don't Make me Angry"
+			- [ ] Episode 49 - "Eggman Family Vacation"
+			- [ ] Episode 50 - "Return to Beyond the Valley of the Cubots"
+			- [ ] Episode 51 - "Eggman: The Video Game I"
+			- [ ] Episode 52 - "Eggman: The Video Game II"
+	- [u] Pac-Man and the Ghostly Adventures
+		- [u] Season 1
+			- [x] Episode 1 - "The Adventure Begins I"
+			- [x] Episode 2 - "The Adventure Begins II"
+			- [ ] Episode 3 - "No Pets Allowed....Especially Monsters! I"
+			- [ ] Episode 4 - "No Pets Allowed....Especially Monsters! II"
+			- [ ] Episode 5 - "All You Can Eat"
+			- [ ] Episode 6 - "President Posessed"
+			- [ ] Episode 7 - "Is Zit You Or Is Zit Me?"
+			- [ ] Episode 8 - "Pac To The Future"
+			- [ ] Episode 9 - "Heebo-Skeebo"
+			- [ ] Episode 10 - "Mission ImPacable"
+			- [ ] Episode 11 - "Nobody Knows"
+			- [ ] Episode 12 - "Seems Like Old Times"
+			- [ ] Episode 13 - "Betrayus Turns the Heat Up"
+			- [ ] Episode 14 - "Pac-Pong Fever"
+			- [ ] Episode 15 - "Driver's Pac"
+			- [ ] Episode 16 - "Jinxed"
+			- [ ] Episode 17 - "Indiana Pac and the Temple of Slime"
+			- [ ] Episode 18 - "Planet Pac vs. The Ghosteroid"
+			- [ ] Episode 19 - "Stand By Your Pac-Man"
+			- [ ] Episode 20 - "PacLantis"
+			- [ ] Episode 21 - "Jurassic Pac"
+			- [ ] Episode 22 - "A Berry Scary Night"
+			- [ ] Episode 23 - "The Great Chase"
+			- [ ] Episode 24 - "Robo Woes"
+			- [ ] Episode 25 - "The Spy Who Slimed Me"
+			- [ ] Episode 26 - "Invasion of the Pointy Heads"
+		- [b] Season 2
+			- [ ] Episode 1 - "Ride the Wild Pac-Topus"
+			- [ ] Episode 2 - "Meanie Genie"
+			- [ ] Episode 3 - "Cave Pac-Man"
+			- [ ] Episode 4 - "Cosmic Contest"
+			- [ ] Episode 5 - "That Smarts!"
+			- [ ] Episode 6 - "Pac-Mania"
+			- [ ] Episode 7 - "Rip Van Packle"
+			- [ ] Episode 8 - "Spooka-Bazooka"
+			- [ ] Episode 9 - "The Pac Be With You"
+			- [ ] Episode 10 - "The Shadow of the Were-Pac"
+			- [ ] Episode 11 - "Cap'n Banshee and His Interstellar Buccaneers"
+			- [ ] Episode 12 - "A Hard Dazed Knight"
+			- [ ] Episode 13 - "Happy Holidays and a Merry Berry Day"
+		- [b] Season 3
+			- [ ] Episode 1 - "Peace Without Slime"
+			- [ ] Episode 2 - "The Ghost Behind the Throne"
+			- [ ] Episode 3 - "Nerd is the Word"
+			- [ ] Episode 4 - "Bride of the Grinder"
+			- [ ] Episode 5 - "The Legend of Creepy Hollow"
+			- [ ] Episode 6 - "Easter Egg Island"
+			- [ ] Episode 7 - "The Wizard of Odd"
+			- [ ] Episode 8 - "Indiana Pac and the Dentures of Doom"
+			- [ ] Episode 9 - "Honey, I Digitized the Pac-Man"
+			- [ ] Episode 10 - "Pac's Very Scary Halloween I"
+			- [ ] Episode 11 - "Pac's Very Scary Halloween II"
+			- [ ] Episode 12 - "Santa Pac"
+			- [ ] Episode 13 - "New Girl in Town"
+	- [b] Wander Over Yonder 
+		- [b] Season 1
+			- [ ] Episode 1 - "The Greatest" | "The Egg"
+			- [ ] Episode 2 - "The Picnic" | " The Fugitives"
+			- [ ] Episode 3 - "The Good Deed" | "The Prisoner"
+			- [ ] Episode 4 - "The Pet"
+			- [ ] Episode 5 - "The Bad Guy" | "The Troll"
+			- [ ] Episode 6 - "The Box" | "The Hat"
+			- [ ] Episode 7 - "The Little Guy"
+			- [ ] Episode 8 - "The Bounty" | "The Ball"
+			- [ ] Episode 9 - "The Hero" | "The Birthday Boy"
+			- [ ] Episode 10 - "The Nice Guy" | "The Time Bomb"
+			- [ ] Episode 11 - "The Fancy Party" | "The Tourist"
+			- [ ] Episode 12 - "The Day" | "The Night"
+			- [ ] Episode 13 - "The Lonely Planet" | "The Brainstorm"
+			- [ ] Episode 14 - "The Party Animal" | "The Toddler"
+			- [ ] Episode 15 - "The Epic Quest of Unfathomable Difficulty!!!" | "The Void"
+			- [ ] Episode 16 - "The Date" | "The Buddies"
+			- [ ] Episode 17 - "The Liar" | "The Stray"
+			- [ ] Episode 18 - "The Funk" | "The Enemies"
+			- [ ] Episode 19 - "The Gift" | "The Gift 2: The Giftening"
+			- [ ] Episode 20 - "The Big Job" | "The Helper"
+			- [ ] Episode 21 - "The Rider"
+		- [b] Season 2
+			- [ ] Episode 1 - "The Greater Hater"
+			- [ ] Episode 2 - "The Big Day" | "The Breakfast"
+			- [ ] Episode 3 - "The Fremergency Fronfract" | "The Boy Wander"
+			- [ ] Episode 4 - "The Wanderers" | "The Axe"
+			- [ ] Episode 5 - "The Loose Screw" | "The It"
+			- [ ] Episode 6 - "The Cool Guy" | "The Catastrophe"
+			- [ ] Episode 7 - "The Rager" | "The Good Bay Guy"
+			- [ ] Episode 8 - "The Battle Royale"
+			- [ ] Episode 9 - "The Matchmaker" | "The New Toy"
+			- [ ] Episode 10 - "The Black Cube" | "The Eye on the Skullship"
+			- [ ] Episode 11 - "The Secret Planet" | "The Bad Hatter"
+			- [ ] Episode 12 - "The Hole...Lotta Nuthin'" | "The Show Stopper"
+			- [ ] Episode 13 - "The Cartoon" | "The Bot"
+			- [ ] Episode 14 - "The Family Reunion" | "The Rival"
+			- [ ] Episode 15 - "My Fair Hatey"
+			- [ ] Episode 16 - "The Legend" | "The Bad Neighbors"
+			- [ ] Episode 17 - "The Party Poopers" | "The Waste of Time"
+			- [ ] Episode 18 - "The Hot Shot" | "The Night Out"
+			- [ ] Episode 19 - "The Search for Captain Tim" | "The Heebie Jeebies"
+			- [ ] Episode 20 - "The Sick Day" | "The Sky Guy"
+			- [ ] Episode 21 - "The Robomechabotatron" | "The Flower"
+			- [ ] Episode 22 - "The End of the Galaxy"
+	- [b] Mao Mao: Heroes of Pure Heart
+		- [*] Volume 1
+			- [x] Episode 1 - "I Love You Mao Mao"
+			- [x] Episode 2 - "The Perfect Adventure"
+			- [x] Episode 3 - "No Shortcuts"
+			- [x] Episode 4 - "Ultraclops"
+			- [x] Episode 5 - "Mao Mao's Bike Adventure"
+			- [x] Episode 6 - "Breakup"
+			- [x] Episode 7 - "Not Impressed"
+			- [x] Episode 8 - "Enemy Mime"
+			- [x] Episode 9 - "Outfoxed"
+			- [x] Episode 10 - "Bao Bao's Revenge"
+			- [x] Episode 11 - "Popularity Conquest"
+			- [x] Episode 12 - "Sick mao"
+			- [x] Episode 13 - "Thumb War"
+			- [x] Episode 14 - "All by Mao Self"
+			- [x] Episode 15 - "He's the Sheriff"
+			- [x] Episode 16 - "Bobo Chan"
+			- [x] Episode 17 - "Small"
+			- [x] Episode 18 - "Legend of the Torbaclaun"
+			- [x] Episode 19 - "Meet Tanya Keys"
+			- [x] Episode 20 - "Weapon of Choice"
+		- [*] Volume 2
+			- [x] Episode 1 - "The Truth Stinks"
+			- [x] Episode 2 - "Trading Day"
+			- [x] Episode 3 - "Head Chef"
+			- [x] Episode 4 - "Orangusnake Begins"
+			- [x] Episode 5 - "Sugar Berry Fever"
+			- [x] Episode 6 - "Captured Clops"
+			- [x] Episode 7 - "Flyaway"
+			- [x] Episode 8 - "Baost in Show"
+			- [x] Episode 9 - "Fright Wig"
+			- [x] Episode 10 - "Sleeper Sofa"
+			- [x] Episode 11 - "Mao Mao's Nakey"
+			- [x] Episode 12 - "Lucky Ducky Mug"
+			- [x] Episode 13 - "Lonely Kid"
+			- [x] Episode 14 - "Try Hard"
+			- [x] Episode 15 - "Scared of Puppets"
+			- [x] Episode 16 - "The Perfect Couple"
+			- [x] Episode 17 - "Adoradad"
+			- [x] Episode 18 - "Badge-a-fire Explosion"
+			- [x] Episode 19 - "Zing Your Heart Out"
+			- [x] Episode 20 - "Strange Bedfellows"
+ 
+ - [I] Anime:
+	- [b] A Silent Voice
+	- [d] A Sister's All You Need
+	- [b] Akame ga Kill!
+	- [b] Akiba Maid War
+	- [b] Alya Sometimes Hides Her Feelings in Russian
+	- [*] Assassination Classroom:
+		- [*] Season 1
+		- [*] Season 2
+	- [b] Azumanga Daioh: The Animation
+	- [b] Berserk (2016)
+	- [b] BLEND-S
+	- [*] Bocchi the Rock!
+	- [*] Bubble
+	- [*] Castle in the Sky
+	- [*] Chainsaw Man
+	- [b] Chivalry of a Failed Knight
+	- [u] Classroom of the Elite
+		- [*] Season 1
+		- [b] Season 2
+		- [b] Season 3
+	- [b] Code Geass: Lelouch of the Rebellion
+	- [*] Cyberpunk Edgeruners
+	- [*] DARLING in the FRANXX
+	- [d] Death Note
+	- [?] Disgaea
+	- [b] Drug Store in ANother World; The Slow Life of a Cheat Pharmacist
+	- [?] Fate/stay night
+	- [b] Frieren: Beyond Journey's End
+	- [b] Gabriel DropOut
+	- [b] Ghost Stories
+	- [b] Gintama
+	- [b] Girls Band Cry
+	- [b] Girls und Panzer
+	- [b] Great Pretender
+	- [b] Gushing Over Magical Girls
+	- [b] Heavenly Delusion
+	- [*] Horimiya
+	- [*] Howl's Moving Castle
+	- [d] Hyouka
+	- [b] I Want To Eat Your Pancreas
+	- [b] I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability 
+	- [b] If Her Flag Breaks
+	- [d] Jujutsu Kaisen
+	- [*] Kaguya-sama: Love is War
+	- [*] Kiki's Delivery Service
+	- [*] Komi Can't Communicate
+	- [b] Konosuba:
+		- [b] An Explosion on This Wonderful World!
+		- [b] God's Blessing on This Wonderful World!
+			- [b] God's Blessing on This Wonderful Choker!
+			- [b] Legend of Crimson
+		- [b] God's Blessing on This Wonderful World! 2
+			- [b] God's Blessing on This Wonderful Art!
+	- [b] God's Blessing on This Wonderful World! 3
+	- [b] Laid-Back Camp
+	- [*] Love, Chunibyo, & Other Delusions!
+	- [b] Lucky☆Star
+	- [b] Macross:
+		- [b] Macross
+		- [b] Macross Delta
+	- [?] Made in Abyss:
+		- [*] Season 1
+		- [b] Season 2
+		- [*] Dawn of the Deep Soul
+		- [b] The Golden City of the Scorching Sun
+	- [b] Mayo Chiki!
+	- [b] Miss Kobayashi's Dragon Maid
+	- [b] Miss Kuroitsu from the Monster Development Department
+	- [b] Monster Musume
+	- [b] Mushoku Tensei: Jobless Reincarnation
+	- [b] My Deer Friend Nokotan
+	- [*] My Neighbor Totoro
+	- [*] Mysterious Girlfriend X
+	- [*] Neon Genesis Evangelion:
+		- [*] Series
+		- [*] The End of Evangelion
+	- [b] Nichijou - My Ordinary Life
+	- [b] Onimai: I'm Now Your Sister!
+	- [?] Pokémon
+	- [*] Ponyo
+	- [b] Princess Mononoke
+	- [*] Rascal Does Not Dream of Bunny Girl Senpai
+	- [/] Re:ZERO -Starting Life in Another World:
+		- [*] Season 1
+		- [*] Season 2
+			- [*] Part 1
+			- [*] Part 2
+		- [b] Season 3
+	- [d] Reborn as a Vending Machine, I now Wander the Dungeon
+	- [b] Saga of Tanya the Evil
+	- [b] Sanrio Boys
+	- [b] Senpai is an Otokonoko 
+	- [b] Servant x Service
+	- [b] Sleepy Princess in the Demon Castle
+	- [b] Solo Leveling
+	- [?] Sonny Boy
+	- [*] Spirited Away
+	- [/] Spy x Family
+		- [*] Season 1
+			- [*] Cour 1
+			- [*] Cour 2
+		- [*] Season 2
+		- [b] Season 3
+		- [b] Ayataka Spy x Family Movie Campaign Ayataka de Hotto Hitoiki
+	- [b] That Time I Got Reincarnated as a Slime
+	- [b] The Case Study of Vanitas
+	- [*] The Dangers in My Heart:
+		- [*] Season 1
+		- [*] Season 2
+	- [d] The Demon Girl Next Door
+	- [b] The Devil is a Part-Timer!
+	- [d] The Disastrous Life of Saiki K.
+	- [/] The Duke of Death and His Maid:
+		- [*] Season 1
+		- [*] Season 2
+		- [b] Season 3
+	- [b] The Reincarnation of the Strongest Exorcist in Another World
+	- [*] The Garden of Words
+	- [?] The Great Jahy Will Not Be Defeated!
+	- [b] Tokyo Ghoul:re
+	- [b] Train to the End of the World
+	- [b] Trigun
+	- [d] Urusei Yatsura
+	- [b] Uzaki-chan Wants to Hang Out!
+	- [?] Violet Evergarden
+	- [d] WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Not Popular!
+	- [b] Weathering with You
+	- [*] Welcome to Demon School! Iruma-kun:
+		- [*] Season 1
+		- [*] Season 2
+		- [*] Season 3
+		- [!] Season 4?
+	- [b] Whisper of the Heart
+	- [*] Your Name.
+	- [b] Yosuga no Sora
+	- [/] Oshi No Ko:
+		- [*] Season 1
+		- [b] Season 2
+
+ - [I] Books:
+	- [u] Atomic Habits
+	- [b] 1984
+
+ - [I] Manga:
+	- [*] DARLING in the FRANXX
+	- [b] Hells Angels
