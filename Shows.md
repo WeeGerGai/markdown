@@ -686,7 +686,7 @@
 			- [x] Episode 22 - "The Curse of Buddy Buddy Temple"
 			- [x] Episode 23 - "Let's Play Musical Friends"
 			- [x] Episode 24 - "Late Fees"
-			- [ ] Episode 25 - "Into the Wilderness"
+			- [x] Episode 25 - "Into the Wilderness"
 			- [ ] Episode 26 - "Eggman Unplugged"
 			- [ ] Episode 27 - "Chez Amy"
 			- [ ] Episode 28 - "Blue with Envy"
