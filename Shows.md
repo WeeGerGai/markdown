@@ -138,7 +138,7 @@
 			- [x] Episode 19 - Weirdmageddon: Escape from Reality
 			- [x] Episode 20 - Weirdmageddon: Take Back the Falls
 			- [x] Episodes 21 - Weirdmageddon: Somewhere in the Woods 
-	- [b] Gumball
+	- [*] Gumball
 		- [*] Season 1
 			- [x] Episode 1 - The DVD
 			- [x] Episode 2 - The Responsible
@@ -384,7 +384,7 @@
 			- [x] Episode 41 - The Revolt
 			- [x] Episode 42 - The Decisions
 			- [x] Episode 43 - The BFFs
-			- [x] Episode 44 - The Inquisition
+			- [x] Episode 44 - The Inquisition 
 	- [*] Smiling Friends
 		- [*] Season 1
 			- [x] Episode 1 - Desmond's Big Day Out
