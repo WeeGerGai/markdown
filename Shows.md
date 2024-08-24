@@ -405,7 +405,7 @@
 			- [x] Episode 6 - Charlie, Pim, and Bill vs. the Alien
 			- [x] Episode 7 - The Magical Rd Jewel AKA Tyler Gets Fired
 			- [x] Episode 8 - Pim Finally Turns Green
-	- [?] Regular Show: 
+	- [/] Regular Show: 
 		- [?] Series
 			- [*] Season 1
 				- [x] Episode 1 - The Power
