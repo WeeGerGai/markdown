@@ -405,7 +405,7 @@
 			- [x] Episode 6 - Charlie, Pim, and Bill vs. the Alien
 			- [x] Episode 7 - The Magical Rd Jewel AKA Tyler Gets Fired
 			- [x] Episode 8 - Pim Finally Turns Green
-	- [/] Regular Show: 
+	- [?] Regular Show: 
 		- [?] Series
 			- [*] Season 1
 				- [x] Episode 1 - The Power
@@ -771,8 +771,8 @@
 		- [u] Season 1
 			- [x] Episode 1 - "The Adventure Begins I"
 			- [x] Episode 2 - "The Adventure Begins II"
-			- [ ] Episode 3 - "No Pets Allowed....Especially Monsters! I"
-			- [ ] Episode 4 - "No Pets Allowed....Especially Monsters! II"
+			- [x] Episode 3 - "No Pets Allowed....Especially Monsters! I"
+			- [x] Episode 4 - "No Pets Allowed....Especially Monsters! II"
 			- [ ] Episode 5 - "All You Can Eat"
 			- [ ] Episode 6 - "President Posessed"
 			- [ ] Episode 7 - "Is Zit You Or Is Zit Me?"
