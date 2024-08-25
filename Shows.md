@@ -12,14 +12,15 @@
 	- [*] American Psycho
 	- [*] Chicken Run
 	- [b] Elephant (2003)
-	- [b] Smurfs
-		- [b] Smurfs 1
-		- [b] Smurfs 2
 	- [*] Paddington
 		- [*] Paddington 1
 		- [*] Paddington 2
-	- [*] Yes Man
+	- [b] Smurfs
+		- [b] Smurfs 1
+		- [b] Smurfs 2
+	- [b] Stray (2023)
 	- [b] Wolf of Wall-Street
+	- [*] Yes Man
 
  - [I] Shows:
 	- [b] CatDog
@@ -386,26 +387,62 @@
 			- [x] Episode 42 - The Decisions
 			- [x] Episode 43 - The BFFs
 			- [x] Episode 44 - The Inquisition 
-	- [*] Smiling Friends
-		- [*] Season 1
-			- [x] Episode 1 - Desmond's Big Day Out
-			- [x] Episode 2 - Mr. Frog
-			- [x] Episode 3 - Shrimp's Odyssey
-			- [x] Episode 4 - A Silly Halloween Special
-			- [x] Episode 5 -  Who Violently Murdered Simon S. Salty
-			- [x] Episode 6 - Enchanted Forest
-			- [x] Episode 7 - Frowning Friends
-			- [x] Episode 8 - Charlie Dies and Doesn't Come Back
-			- [x] Episode 9 - The Smiling Friends Go to Brazil!
-		- [*] Season 2 
-			- [x] Episode 1 - Gwimbly: Definitive Remastered Enhanced Extended Edition with DX 4K (Anniversary Director's Cut)
-			- [x] Episode 2 - Mr. President
-			- [x] Episode 3 - A Allan Adventure
-			- [x] Episode 4 - Erm, the Boss Finds Love?
-			- [x] Episode 5 - Brother's Egg
-			- [x] Episode 6 - Charlie, Pim, and Bill vs. the Alien
-			- [x] Episode 7 - The Magical Rd Jewel AKA Tyler Gets Fired
-			- [x] Episode 8 - Pim Finally Turns Green
+	- [u] Pac-Man and the Ghostly Adventures
+		- [u] Season 1
+			- [x] Episode 1 - "The Adventure Begins I"
+			- [x] Episode 2 - "The Adventure Begins II"
+			- [x] Episode 3 - "No Pets Allowed....Especially Monsters! I"
+			- [x] Episode 4 - "No Pets Allowed....Especially Monsters! II"
+			- [ ] Episode 5 - "All You Can Eat"
+			- [ ] Episode 6 - "President Posessed"
+			- [ ] Episode 7 - "Is Zit You Or Is Zit Me?"
+			- [ ] Episode 8 - "Pac To The Future"
+			- [ ] Episode 9 - "Heebo-Skeebo"
+			- [ ] Episode 10 - "Mission ImPacable"
+			- [ ] Episode 11 - "Nobody Knows"
+			- [ ] Episode 12 - "Seems Like Old Times"
+			- [ ] Episode 13 - "Betrayus Turns the Heat Up"
+			- [ ] Episode 14 - "Pac-Pong Fever"
+			- [ ] Episode 15 - "Driver's Pac"
+			- [ ] Episode 16 - "Jinxed"
+			- [ ] Episode 17 - "Indiana Pac and the Temple of Slime"
+			- [ ] Episode 18 - "Planet Pac vs. The Ghosteroid"
+			- [ ] Episode 19 - "Stand By Your Pac-Man"
+			- [ ] Episode 20 - "PacLantis"
+			- [ ] Episode 21 - "Jurassic Pac"
+			- [ ] Episode 22 - "A Berry Scary Night"
+			- [ ] Episode 23 - "The Great Chase"
+			- [ ] Episode 24 - "Robo Woes"
+			- [ ] Episode 25 - "The Spy Who Slimed Me"
+			- [ ] Episode 26 - "Invasion of the Pointy Heads"
+		- [b] Season 2
+			- [ ] Episode 1 - "Ride the Wild Pac-Topus"
+			- [ ] Episode 2 - "Meanie Genie"
+			- [ ] Episode 3 - "Cave Pac-Man"
+			- [ ] Episode 4 - "Cosmic Contest"
+			- [ ] Episode 5 - "That Smarts!"
+			- [ ] Episode 6 - "Pac-Mania"
+			- [ ] Episode 7 - "Rip Van Packle"
+			- [ ] Episode 8 - "Spooka-Bazooka"
+			- [ ] Episode 9 - "The Pac Be With You"
+			- [ ] Episode 10 - "The Shadow of the Were-Pac"
+			- [ ] Episode 11 - "Cap'n Banshee and His Interstellar Buccaneers"
+			- [ ] Episode 12 - "A Hard Dazed Knight"
+			- [ ] Episode 13 - "Happy Holidays and a Merry Berry Day"
+		- [b] Season 3
+			- [ ] Episode 1 - "Peace Without Slime"
+			- [ ] Episode 2 - "The Ghost Behind the Throne"
+			- [ ] Episode 3 - "Nerd is the Word"
+			- [ ] Episode 4 - "Bride of the Grinder"
+			- [ ] Episode 5 - "The Legend of Creepy Hollow"
+			- [ ] Episode 6 - "Easter Egg Island"
+			- [ ] Episode 7 - "The Wizard of Odd"
+			- [ ] Episode 8 - "Indiana Pac and the Dentures of Doom"
+			- [ ] Episode 9 - "Honey, I Digitized the Pac-Man"
+			- [ ] Episode 10 - "Pac's Very Scary Halloween I"
+			- [ ] Episode 11 - "Pac's Very Scary Halloween II"
+			- [ ] Episode 12 - "Santa Pac"
+			- [ ] Episode 13 - "New Girl in Town"
 	- [?] Regular Show: 
 		- [?] Series
 			- [*] Season 1
@@ -661,6 +698,26 @@
 				- [ ] Episode 26 - Cheer Up Pops
 				- [ ] Episode 27 - A Regular Epic Final Battle
 		- [b] The Movie
+	- [*] Smiling Friends
+		- [*] Season 1
+			- [x] Episode 1 - Desmond's Big Day Out
+			- [x] Episode 2 - Mr. Frog
+			- [x] Episode 3 - Shrimp's Odyssey
+			- [x] Episode 4 - A Silly Halloween Special
+			- [x] Episode 5 -  Who Violently Murdered Simon S. Salty
+			- [x] Episode 6 - Enchanted Forest
+			- [x] Episode 7 - Frowning Friends
+			- [x] Episode 8 - Charlie Dies and Doesn't Come Back
+			- [x] Episode 9 - The Smiling Friends Go to Brazil!
+		- [*] Season 2 
+			- [x] Episode 1 - Gwimbly: Definitive Remastered Enhanced Extended Edition with DX 4K (Anniversary Director's Cut)
+			- [x] Episode 2 - Mr. President
+			- [x] Episode 3 - A Allan Adventure
+			- [x] Episode 4 - Erm, the Boss Finds Love?
+			- [x] Episode 5 - Brother's Egg
+			- [x] Episode 6 - Charlie, Pim, and Bill vs. the Alien
+			- [x] Episode 7 - The Magical Rd Jewel AKA Tyler Gets Fired
+			- [x] Episode 8 - Pim Finally Turns Green
 	- [u] Sonic Boom 
 		- [u] Season 1
 			- [x] Episode 1 - "The Sidekick"
@@ -698,7 +755,62 @@
 			- [ ] Episode 33 - "Eggman the Auteur"
 			- [ ] Episode 34 - "Just a Guy"
 			- [ ] Episode 35 - "Two Good to Be True"
-			- [ ] Episode 36 - "Beyond the Valley of the Cubots"
+			- [ ] Episode 36 - "Beyond the Valley of 	- [u] Pac-Man and the Ghostly Adventures
+		- [u] Season 1
+			- [x] Episode 1 - "The Adventure Begins I"
+			- [x] Episode 2 - "The Adventure Begins II"
+			- [x] Episode 3 - "No Pets Allowed....Especially Monsters! I"
+			- [x] Episode 4 - "No Pets Allowed....Especially Monsters! II"
+			- [ ] Episode 5 - "All You Can Eat"
+			- [ ] Episode 6 - "President Posessed"
+			- [ ] Episode 7 - "Is Zit You Or Is Zit Me?"
+			- [ ] Episode 8 - "Pac To The Future"
+			- [ ] Episode 9 - "Heebo-Skeebo"
+			- [ ] Episode 10 - "Mission ImPacable"
+			- [ ] Episode 11 - "Nobody Knows"
+			- [ ] Episode 12 - "Seems Like Old Times"
+			- [ ] Episode 13 - "Betrayus Turns the Heat Up"
+			- [ ] Episode 14 - "Pac-Pong Fever"
+			- [ ] Episode 15 - "Driver's Pac"
+			- [ ] Episode 16 - "Jinxed"
+			- [ ] Episode 17 - "Indiana Pac and the Temple of Slime"
+			- [ ] Episode 18 - "Planet Pac vs. The Ghosteroid"
+			- [ ] Episode 19 - "Stand By Your Pac-Man"
+			- [ ] Episode 20 - "PacLantis"
+			- [ ] Episode 21 - "Jurassic Pac"
+			- [ ] Episode 22 - "A Berry Scary Night"
+			- [ ] Episode 23 - "The Great Chase"
+			- [ ] Episode 24 - "Robo Woes"
+			- [ ] Episode 25 - "The Spy Who Slimed Me"
+			- [ ] Episode 26 - "Invasion of the Pointy Heads"
+		- [b] Season 2
+			- [ ] Episode 1 - "Ride the Wild Pac-Topus"
+			- [ ] Episode 2 - "Meanie Genie"
+			- [ ] Episode 3 - "Cave Pac-Man"
+			- [ ] Episode 4 - "Cosmic Contest"
+			- [ ] Episode 5 - "That Smarts!"
+			- [ ] Episode 6 - "Pac-Mania"
+			- [ ] Episode 7 - "Rip Van Packle"
+			- [ ] Episode 8 - "Spooka-Bazooka"
+			- [ ] Episode 9 - "The Pac Be With You"
+			- [ ] Episode 10 - "The Shadow of the Were-Pac"
+			- [ ] Episode 11 - "Cap'n Banshee and His Interstellar Buccaneers"
+			- [ ] Episode 12 - "A Hard Dazed Knight"
+			- [ ] Episode 13 - "Happy Holidays and a Merry Berry Day"
+		- [b] Season 3
+			- [ ] Episode 1 - "Peace Without Slime"
+			- [ ] Episode 2 - "The Ghost Behind the Throne"
+			- [ ] Episode 3 - "Nerd is the Word"
+			- [ ] Episode 4 - "Bride of the Grinder"
+			- [ ] Episode 5 - "The Legend of Creepy Hollow"
+			- [ ] Episode 6 - "Easter Egg Island"
+			- [ ] Episode 7 - "The Wizard of Odd"
+			- [ ] Episode 8 - "Indiana Pac and the Dentures of Doom"
+			- [ ] Episode 9 - "Honey, I Digitized the Pac-Man"
+			- [ ] Episode 10 - "Pac's Very Scary Halloween I"
+			- [ ] Episode 11 - "Pac's Very Scary Halloween II"
+			- [ ] Episode 12 - "Santa Pac"
+			- [ ] Episode 13 - "New Girl in Town"the Cubots"
 			- [ ] Episode 37 - "Next Top Villain"
 			- [ ] Episode 38 - "New Year's Retribution"
 			- [ ] Episode 39 - "Battle of the Boy Bands"
@@ -768,62 +880,49 @@
 			- [ ] Episode 50 - "Return to Beyond the Valley of the Cubots"
 			- [ ] Episode 51 - "Eggman: The Video Game I"
 			- [ ] Episode 52 - "Eggman: The Video Game II"
-	- [u] Pac-Man and the Ghostly Adventures
-		- [u] Season 1
-			- [x] Episode 1 - "The Adventure Begins I"
-			- [x] Episode 2 - "The Adventure Begins II"
-			- [x] Episode 3 - "No Pets Allowed....Especially Monsters! I"
-			- [x] Episode 4 - "No Pets Allowed....Especially Monsters! II"
-			- [ ] Episode 5 - "All You Can Eat"
-			- [ ] Episode 6 - "President Posessed"
-			- [ ] Episode 7 - "Is Zit You Or Is Zit Me?"
-			- [ ] Episode 8 - "Pac To The Future"
-			- [ ] Episode 9 - "Heebo-Skeebo"
-			- [ ] Episode 10 - "Mission ImPacable"
-			- [ ] Episode 11 - "Nobody Knows"
-			- [ ] Episode 12 - "Seems Like Old Times"
-			- [ ] Episode 13 - "Betrayus Turns the Heat Up"
-			- [ ] Episode 14 - "Pac-Pong Fever"
-			- [ ] Episode 15 - "Driver's Pac"
-			- [ ] Episode 16 - "Jinxed"
-			- [ ] Episode 17 - "Indiana Pac and the Temple of Slime"
-			- [ ] Episode 18 - "Planet Pac vs. The Ghosteroid"
-			- [ ] Episode 19 - "Stand By Your Pac-Man"
-			- [ ] Episode 20 - "PacLantis"
-			- [ ] Episode 21 - "Jurassic Pac"
-			- [ ] Episode 22 - "A Berry Scary Night"
-			- [ ] Episode 23 - "The Great Chase"
-			- [ ] Episode 24 - "Robo Woes"
-			- [ ] Episode 25 - "The Spy Who Slimed Me"
-			- [ ] Episode 26 - "Invasion of the Pointy Heads"
-		- [b] Season 2
-			- [ ] Episode 1 - "Ride the Wild Pac-Topus"
-			- [ ] Episode 2 - "Meanie Genie"
-			- [ ] Episode 3 - "Cave Pac-Man"
-			- [ ] Episode 4 - "Cosmic Contest"
-			- [ ] Episode 5 - "That Smarts!"
-			- [ ] Episode 6 - "Pac-Mania"
-			- [ ] Episode 7 - "Rip Van Packle"
-			- [ ] Episode 8 - "Spooka-Bazooka"
-			- [ ] Episode 9 - "The Pac Be With You"
-			- [ ] Episode 10 - "The Shadow of the Were-Pac"
-			- [ ] Episode 11 - "Cap'n Banshee and His Interstellar Buccaneers"
-			- [ ] Episode 12 - "A Hard Dazed Knight"
-			- [ ] Episode 13 - "Happy Holidays and a Merry Berry Day"
-		- [b] Season 3
-			- [ ] Episode 1 - "Peace Without Slime"
-			- [ ] Episode 2 - "The Ghost Behind the Throne"
-			- [ ] Episode 3 - "Nerd is the Word"
-			- [ ] Episode 4 - "Bride of the Grinder"
-			- [ ] Episode 5 - "The Legend of Creepy Hollow"
-			- [ ] Episode 6 - "Easter Egg Island"
-			- [ ] Episode 7 - "The Wizard of Odd"
-			- [ ] Episode 8 - "Indiana Pac and the Dentures of Doom"
-			- [ ] Episode 9 - "Honey, I Digitized the Pac-Man"
-			- [ ] Episode 10 - "Pac's Very Scary Halloween I"
-			- [ ] Episode 11 - "Pac's Very Scary Halloween II"
-			- [ ] Episode 12 - "Santa Pac"
-			- [ ] Episode 13 - "New Girl in Town"
+	- [b] Mao Mao: Heroes of Pure Heart
+		- [*] Volume 1
+			- [x] Episode 1 - "I Love You Mao Mao"
+			- [x] Episode 2 - "The Perfect Adventure"
+			- [x] Episode 3 - "No Shortcuts"
+			- [x] Episode 4 - "Ultraclops"
+			- [x] Episode 5 - "Mao Mao's Bike Adventure"
+			- [x] Episode 6 - "Breakup"
+			- [x] Episode 7 - "Not Impressed"
+			- [x] Episode 8 - "Enemy Mime"
+			- [x] Episode 9 - "Outfoxed"
+			- [x] Episode 10 - "Bao Bao's Revenge"
+			- [x] Episode 11 - "Popularity Conquest"
+			- [x] Episode 12 - "Sick mao"
+			- [x] Episode 13 - "Thumb War"
+			- [x] Episode 14 - "All by Mao Self"
+			- [x] Episode 15 - "He's the Sheriff"
+			- [x] Episode 16 - "Bobo Chan"
+			- [x] Episode 17 - "Small"
+			- [x] Episode 18 - "Legend of the Torbaclaun"
+			- [x] Episode 19 - "Meet Tanya Keys"
+			- [x] Episode 20 - "Weapon of Choice"
+		- [*] Volume 2
+			- [x] Episode 1 - "The Truth Stinks"
+			- [x] Episode 2 - "Trading Day"
+			- [x] Episode 3 - "Head Chef"
+			- [x] Episode 4 - "Orangusnake Begins"
+			- [x] Episode 5 - "Sugar Berry Fever"
+			- [x] Episode 6 - "Captured Clops"
+			- [x] Episode 7 - "Flyaway"
+			- [x] Episode 8 - "Baost in Show"
+			- [x] Episode 9 - "Fright Wig"
+			- [x] Episode 10 - "Sleeper Sofa"
+			- [x] Episode 11 - "Mao Mao's Nakey"
+			- [x] Episode 12 - "Lucky Ducky Mug"
+			- [x] Episode 13 - "Lonely Kid"
+			- [x] Episode 14 - "Try Hard"
+			- [x] Episode 15 - "Scared of Puppets"
+			- [x] Episode 16 - "The Perfect Couple"
+			- [x] Episode 17 - "Adoradad"
+			- [x] Episode 18 - "Badge-a-fire Explosion"
+			- [x] Episode 19 - "Zing Your Heart Out"
+			- [x] Episode 20 - "Strange Bedfellows"
 	- [b] Wander Over Yonder 
 		- [b] Season 1
 			- [ ] Episode 1 - "The Greatest" | "The Egg"
@@ -869,51 +968,8 @@
 			- [ ] Episode 19 - "The Search for Captain Tim" | "The Heebie Jeebies"
 			- [ ] Episode 20 - "The Sick Day" | "The Sky Guy"
 			- [ ] Episode 21 - "The Robomechabotatron" | "The Flower"
-			- [ ] Episode 22 - "The End of the Galaxy"
-	- [b] Mao Mao: Heroes of Pure Heart
-		- [*] Volume 1
-			- [x] Episode 1 - "I Love You Mao Mao"
-			- [x] Episode 2 - "The Perfect Adventure"
-			- [x] Episode 3 - "No Shortcuts"
-			- [x] Episode 4 - "Ultraclops"
-			- [x] Episode 5 - "Mao Mao's Bike Adventure"
-			- [x] Episode 6 - "Breakup"
-			- [x] Episode 7 - "Not Impressed"
-			- [x] Episode 8 - "Enemy Mime"
-			- [x] Episode 9 - "Outfoxed"
-			- [x] Episode 10 - "Bao Bao's Revenge"
-			- [x] Episode 11 - "Popularity Conquest"
-			- [x] Episode 12 - "Sick mao"
-			- [x] Episode 13 - "Thumb War"
-			- [x] Episode 14 - "All by Mao Self"
-			- [x] Episode 15 - "He's the Sheriff"
-			- [x] Episode 16 - "Bobo Chan"
-			- [x] Episode 17 - "Small"
-			- [x] Episode 18 - "Legend of the Torbaclaun"
-			- [x] Episode 19 - "Meet Tanya Keys"
-			- [x] Episode 20 - "Weapon of Choice"
-		- [*] Volume 2
-			- [x] Episode 1 - "The Truth Stinks"
-			- [x] Episode 2 - "Trading Day"
-			- [x] Episode 3 - "Head Chef"
-			- [x] Episode 4 - "Orangusnake Begins"
-			- [x] Episode 5 - "Sugar Berry Fever"
-			- [x] Episode 6 - "Captured Clops"
-			- [x] Episode 7 - "Flyaway"
-			- [x] Episode 8 - "Baost in Show"
-			- [x] Episode 9 - "Fright Wig"
-			- [x] Episode 10 - "Sleeper Sofa"
-			- [x] Episode 11 - "Mao Mao's Nakey"
-			- [x] Episode 12 - "Lucky Ducky Mug"
-			- [x] Episode 13 - "Lonely Kid"
-			- [x] Episode 14 - "Try Hard"
-			- [x] Episode 15 - "Scared of Puppets"
-			- [x] Episode 16 - "The Perfect Couple"
-			- [x] Episode 17 - "Adoradad"
-			- [x] Episode 18 - "Badge-a-fire Explosion"
-			- [x] Episode 19 - "Zing Your Heart Out"
-			- [x] Episode 20 - "Strange Bedfellows"
- 
+			- [ ] Episode 22 - "The End of the Galaxy" 
+
  - [I] Anime:
 	- [b] A Silent Voice
 	- [d] A Sister's All You Need
