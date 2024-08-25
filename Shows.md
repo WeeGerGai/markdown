@@ -10,13 +10,14 @@
 
  - [I] Movies:
 	- [*] American Psycho
-	- [*] Paddington
-		- [*] Paddington 1
-		- [*] Paddington 2
+	- [*] Chicken Run
+	- [b] Elephant (2003)
 	- [b] Smurfs
 		- [b] Smurfs 1
 		- [b] Smurfs 2
-	- [*] Chicken Run 
+	- [*] Paddington
+		- [*] Paddington 1
+		- [*] Paddington 2
 	- [*] Yes Man
 	- [b] Wolf of Wall-Street
 
