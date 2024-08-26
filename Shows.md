@@ -880,15 +880,80 @@
 			- [ ] Episode 50 - "Return to Beyond the Valley of the Cubots"
 			- [ ] Episode 51 - "Eggman: The Video Game I"
 			- [ ] Episode 52 - "Eggman: The Video Game II"
-	- [b] Teen Titans #TODO
+	- [b] Teen Titans 
 		- [b] Series
-			- [ ] Season 1
-			- [ ] Season 2
-			- [ ] Season 3
-			- [ ] Season 4
-			- [ ] Season 5
-		- [b] Special
-		- [b] Movie
+			- [b] Season 1
+				- [ ] Episode 1 - "Final Exam"
+				- [ ] Episode 2 - "Sisters"
+				- [ ] Episode 3 - "Divide and Conquer"
+				- [ ] Episode 4 - "Forces of nature"
+				- [ ] Episode 5 - "The Sum of His Parts"
+				- [ ] Episode 6 - "Nevermore"
+				- [ ] Episode 7 - "Switched"
+				- [ ] Episode 8 - "Deep Six"
+				- [ ] Episode 9 - "Masks"
+				- [ ] Episode 10 - "Mad Mod"
+				- [ ] Episode 11 - "Apprentice I"
+				- [ ] Episode 12 - "Apprentice II"
+				- [ ] Episode 13 - "Car Trouble"
+			- [b] Season 2
+				- [ ] Episode 1 - "How Long is Forever?"
+				- [ ] Episode 2 - "Every Dog Has His Day"
+				- [ ] Episode 3 - "Terra"
+				- [ ] Episode 4 - "Only Human"
+				- [ ] Episode 5 - "Fear Itself"
+				- [ ] Episode 6 - "Date with Destiny"
+				- [ ] Episode 7 - "Transformation"
+				- [ ] Episode 8 - "Titan Rising"
+				- [ ] Episode 9 - "Winner Take All"
+				- [ ] Episode 10 - "Betrayal"
+				- [ ] Episode 11 - "Fractured"
+				- [ ] Episode 12 - "Aftershock I"
+				- [ ] Episode 13 - "Aftershock II"
+			- [b] Season 3
+				- [ ] Episode 1 - "Deception"
+				- [ ] Episode 2 - "X"
+				- [ ] Episode 3 - "Betrothed"
+				- [ ] Episode 4 - "Crash"
+				- [ ] Episode 5 - "Haunted"
+				- [ ] Episode 6 - "Spellbound"
+				- [ ] Episode 7 - "Revolution"
+				- [ ] Episode 8 - "Wavelength"
+				- [ ] Episode 9 - "The Beast Within"
+				- [ ] Episode 10 - "Can I Keep Him?"
+				- [ ] Episode 11 - "Bunny Raven... Or... How to Make a Titananimal Disappear"
+				- [ ] Episode 12 - "Titans East I"
+				- [ ] Episode 13 - "Titans East II"
+			- [b] Season 4
+				- [ ] Episode 1 - "Don't Touch That Dial"
+				- [ ] Episode 2 - "The Quest"
+				- [ ] Episode 3 - "Birthmark"
+				- [ ] Episode 4 - "Cyborg the Barbarian"
+				- [ ] Episode 5 - "Employee of the Month"
+				- [ ] Episode 6 - "Troq"
+				- [ ] Episode 7 - "The Prophecy"
+				- [ ] Episode 8 - "Stranded"
+				- [ ] Episode 9 - "Overdrive"
+				- [ ] Episode 10 - "Mother Mae-Eye"
+				- [ ] Episode 11 - "The End I"
+				- [ ] Episode 12 - "The End II"
+				- [ ] Episode 13 - "The End III"
+			- [b] Season 5
+				- [ ] Episode 1 - "Homecoming I"
+				- [ ] Episode 2 - "Homecoming II"
+				- [ ] Episode 3 - "Trust"
+				- [ ] Episode 4 - "For Real"
+				- [ ] Episode 5 - "Snowblind"
+				- [ ] Episode 6 - "Kole"
+				- [ ] Episode 7 - "Hide and Seek"
+				- [ ] Episode 8 - "Lightspeed"
+				- [ ] Episode 9 - "Revved Up"
+				- [ ] Episode 10 - "Go!"
+				- [ ] Episode 11 - "Calling All Titans"
+				- [ ] Episode 12 - "Titans Together"
+				- [ ] Episode 13 - "Things Change"
+		- [b] Special - "The Lost Episode"
+		- [b] Movie - "Teen Titans: Trouble in Tokyo"
 	- [b] Mao Mao: Heroes of Pure Heart
 		- [*] Volume 1
 			- [x] Episode 1 - "I Love You Mao Mao"
