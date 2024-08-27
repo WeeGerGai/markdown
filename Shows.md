@@ -18,7 +18,7 @@
 	- [b] Smurfs
 		- [b] Smurfs 1
 		- [b] Smurfs 2
-	- [b] Stray (2023)
+	- [b] Strays (2023)
 	- [b] Wolf of Wall-Street
 	- [*] Yes Man
 
