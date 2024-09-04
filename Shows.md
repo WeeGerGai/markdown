@@ -387,6 +387,51 @@
 			- [x] Episode 42 - The Decisions
 			- [x] Episode 43 - The BFFs
 			- [x] Episode 44 - The Inquisition 
+	- [b] Inspector Gadget
+		- [b] Season 1
+			- [ ] Episode 1 - 
+			- [ ] Episode 2 -
+			- [ ] Episode 3 -
+			- [ ] Episode 4 - 
+			- [ ] Episode 5 -
+			- [ ] Episode 6 - 
+			- [ ] Episode 7 - 
+			- [ ] Episode 8 - 
+			- [ ] Episode 9 -
+			- [ ] Episode 10 - 
+			- [ ] Episode 11 -
+			- [ ] Episode 12 - 
+			- [ ] Episode 13 -
+			- [ ] Episode 14 - 
+			- [ ] Episode 15 -
+			- [ ] Episode 16 - 
+			- [ ] Episode 17 -
+			- [ ] Episode 18 -
+			- [ ] Episode 19 - 
+			- [ ] Episode 20 - 
+			- [ ] Episode 21 -
+		- [b] Season 2
+			- [ ] Episode 1 - "Gadget in Minimadness"
+			- [ ] Episode 2 - "The Incredible Shinking Ray"
+			- [ ] Episode 3 - "Gadget meets the Grappler"
+			- [ ] Episode 4 - "Focus on Gadget"
+			- [ ] Episode 5 - "Mad in the Moon"
+			- [ ] Episode 6 - "N.S.F. Gadget"
+			- [ ] Episode 7 - "Magic Gadget"
+			- [ ] Episode 8 - "The Great Wambini's Seance"
+			- [ ] Episode 9 - "Wambini Predicts"
+			- [ ] Episode 10 - "Bad Dreams Are Made of This"
+			- [ ] Episode 11 - "Ghost Catchers"
+			- [ ] Episode 12 - "Busy Signal"
+			- [ ] Episode 13 - "The Capeman Cometh"
+			- [ ] Episode 14 - "Crashcourse in Crime"
+			- [ ] Episode 15 - "Gadget's Gadgets"
+			- [ ] Episode 16 - "Tyrannosaurus Gadget"
+			- [ ] Episode 17 - "Gadget's Roma"
+			- [ ] Episode 18 - "Gadget's Clean Sweep"
+			- [ ] Episode 19 - "Gadget Meets the Clan"
+			- [ ] Episode 20 - "Gadget and Old Lace"
+			- [ ] Episode 21 - "Gadget and the Red Rose"
 	- [u] Pac-Man and the Ghostly Adventures
 		- [u] Season 1
 			- [x] Episode 1 - "The Adventure Begins I"
