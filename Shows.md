@@ -1179,6 +1179,7 @@
 			- [*] Part 2
 		- [b] Season 3
 	- [d] Reborn as a Vending Machine, I now Wander the Dungeon
+	- [u] Redo of Healer
 	- [b] Saga of Tanya the Evil
 	- [b] Sanrio Boys
 	- [b] Senpai is an Otokonoko 
