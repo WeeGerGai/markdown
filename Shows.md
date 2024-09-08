@@ -12,6 +12,7 @@
 	- [*] American Psycho
 	- [*] Chicken Run
 	- [b] Elephant (2003)
+	- [b] Limitless
 	- [*] Paddington
 		- [*] Paddington 1
 		- [*] Paddington 2
@@ -1100,15 +1101,15 @@
 		- [*] Season 2
 	- [b] Azumanga Daioh: The Animation
 	- [b] Berserk (2016)
-	- [b] BLEND-S
+	- [?] BLEND-S
 	- [*] Bocchi the Rock!
 	- [*] Bubble
 	- [*] Castle in the Sky
 	- [*] Chainsaw Man
 	- [b] Chivalry of a Failed Knight
-	- [u] Classroom of the Elite
+	- [?] Classroom of the Elite
 		- [*] Season 1
-		- [b] Season 2
+		- [?] Season 2
 		- [b] Season 3
 	- [b] Code Geass: Lelouch of the Rebellion
 	- [*] Cyberpunk Edgeruners
@@ -1119,7 +1120,7 @@
 	- [?] Fate/stay night
 	- [b] Frieren: Beyond Journey's End
 	- [b] Gabriel DropOut
-	- [b] Ghost Stories
+	- [?] Ghost Stories
 	- [b] Gintama
 	- [b] Girls Band Cry
 	- [b] Girls und Panzer
