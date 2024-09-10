@@ -10,8 +10,10 @@
 
  - [I] Movies:
 	- [*] American Psycho
+	- [b] Barnyard
 	- [*] Chicken Run
 	- [b] Elephant (2003)
+	- [b] Fantastic Mr. Fox
 	- [b] Limitless
 	- [*] Paddington
 		- [*] Paddington 1
@@ -1043,10 +1045,10 @@
 			- [x] Episode 18 - "Badge-a-fire Explosion"
 			- [x] Episode 19 - "Zing Your Heart Out"
 			- [x] Episode 20 - "Strange Bedfellows"
-	- [b] Wander Over Yonder 
-		- [b] Season 1
-			- [ ] Episode 1 - "The Greatest" | "The Egg"
-			- [ ] Episode 2 - "The Picnic" | " The Fugitives"
+	- [u] Wander Over Yonder 
+		- [u] Season 1
+			- [x] Episode 1 - "The Greatest" | "The Egg"
+			- [x] Episode 2 - "The Picnic" | " The Fugitives"
 			- [ ] Episode 3 - "The Good Deed" | "The Prisoner"
 			- [ ] Episode 4 - "The Pet"
 			- [ ] Episode 5 - "The Bad Guy" | "The Troll"
