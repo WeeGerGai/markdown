@@ -13,7 +13,7 @@
 	- [b] Barnyard
 	- [*] Chicken Run
 	- [b] Elephant (2003)
-	- [b] Fantastic Mr. Fox #IMPORTANT
+	- [*] Fantastic Mr. Fox
 	- [b] Limitless
 	- [*] Paddington
 		- [*] Paddington 1
