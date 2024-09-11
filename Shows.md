@@ -10,7 +10,7 @@
 
  - [I] Movies:
 	- [*] American Psycho
-	- [b] Barnyard
+	- [b] Barnyard #IMPORTANT
 	- [*] Chicken Run
 	- [b] Elephant (2003)
 	- [*] Fantastic Mr. Fox
@@ -18,7 +18,7 @@
 	- [*] Paddington
 		- [*] Paddington 1
 		- [*] Paddington 2
-	- [b] Smurfs
+	- [b] Smurfs #IMPORTANT 
 		- [b] Smurfs 1
 		- [b] Smurfs 2
 	- [b] Strays (2023)
@@ -767,7 +767,7 @@
 			- [x] Episode 6 - Charlie, Pim, and Bill vs. the Alien
 			- [x] Episode 7 - The Magical Rd Jewel AKA Tyler Gets Fired
 			- [x] Episode 8 - Pim Finally Turns Green
-	- [u] Sonic Boom 
+	- [?] Sonic Boom 
 		- [u] Season 1
 			- [x] Episode 1 - "The Sidekick"
 			- [x] Episode 2 - "Can an Evil Genius Crash on Your Couch for a Few Days?"
@@ -1046,7 +1046,7 @@
 			- [x] Episode 18 - "Badge-a-fire Explosion"
 			- [x] Episode 19 - "Zing Your Heart Out"
 			- [x] Episode 20 - "Strange Bedfellows"
-	- [u] Wander Over Yonder 
+	- [u] Wander Over Yonder #IMPORTANT 
 		- [u] Season 1
 			- [x] Episode 1 - "The Greatest" | "The Egg"
 			- [x] Episode 2 - "The Picnic" | " The Fugitives"
@@ -1235,7 +1235,7 @@
 		- [b] Season 2
 
  - [I] Books:
-	- [u] Atomic Habits
+	- [?] Atomic Habits
 	- [b] 1984
 
  - [I] Manga:
