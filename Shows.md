@@ -23,6 +23,7 @@
 		- [b] Smurfs 2
 	- [b] Strays (2023)
 	- [*] The Truman Show
+	- [*] WALL-E
 	- [b] Wolf of Wall-Street
 	- [*] Yes Man
 
