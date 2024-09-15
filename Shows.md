@@ -18,6 +18,7 @@
 	- [*] Paddington
 		- [*] Paddington 1
 		- [*] Paddington 2
+	- [b] Shortcut to Happiness
 	- [b] Smurfs #IMPORTANT 
 		- [b] Smurfs 1
 		- [b] Smurfs 2
