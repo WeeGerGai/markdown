@@ -10,6 +10,9 @@
 
  - [I] Movies:
 	- [*] American Psycho
+	- [b] Angry Birds
+		- [b] Angry Birds 1
+		- [b] Angry Birds 2
 	- [b] Barnyard
 	- [*] Chicken Run
 	- [b] Elephant (2003)
