@@ -1489,4 +1489,5 @@
 
  - [I] Manga:
 	- [*] DARLING in the FRANXX
+	- [b] Eminence in Shadow
 	- [b] Hells Angels
