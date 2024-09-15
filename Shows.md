@@ -1485,6 +1485,10 @@
 
  - [I] Books:
 	- [?] Atomic Habits
+	- [*] Frindle
+	- [*] The Giver
+	- [*] The Wizards of Once
+	- [*] Theodore Boone: The Accomplice
 	- [b] 1984
 
  - [I] Manga:
