@@ -6,6 +6,7 @@
 	- [b] PLAN TO WATCH/READ
 	- [d] DROPPED
 	- [?] ON HOLD / UNCERTAIN
+	- [/] PARTIALLY COMPLETE
 	- [!] ISSUE
 
  - [I] Movies:
