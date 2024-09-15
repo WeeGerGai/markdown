@@ -749,6 +749,15 @@
 				- [ ] Episode 26 - Cheer Up Pops
 				- [ ] Episode 27 - A Regular Epic Final Battle
 		- [b] The Movie
+	- [*] Scott Pilgrim Takes Off
+		- [x] Episode 1 - "Scott Pilgrim's Precious Little Life"
+		- [x] Episode 2 - "A League of Their Own"
+		- [x] Episode 3 - "Ramona Rents a Video"
+		- [x] Episode 4 - "Whatever"
+		- [x] Episode 5 - "Lights. Camera. Sparks?!"
+		- [x] Episode 6 - "WHODIDIT"
+		- [x] Episode 7 - "2 Scott 2 Pilgrim"
+		- [x] Episode 8 - "The World Vs Scott Pilgrim"
 	- [*] Smiling Friends
 		- [*] Season 1
 			- [x] Episode 1 - Desmond's Big Day Out
