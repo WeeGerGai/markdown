@@ -398,27 +398,71 @@
 			- [x] Episode 44 - The Inquisition 
 	- [b] Inspector Gadget #TODO
 		- [b] Season 1
-			- [ ] Episode 1 - 
-			- [ ] Episode 2 -
-			- [ ] Episode 3 -
-			- [ ] Episode 4 - 
-			- [ ] Episode 5 -
-			- [ ] Episode 6 - 
-			- [ ] Episode 7 - 
-			- [ ] Episode 8 - 
-			- [ ] Episode 9 -
-			- [ ] Episode 10 - 
-			- [ ] Episode 11 -
-			- [ ] Episode 12 - 
-			- [ ] Episode 13 -
-			- [ ] Episode 14 - 
-			- [ ] Episode 15 -
-			- [ ] Episode 16 - 
-			- [ ] Episode 17 -
-			- [ ] Episode 18 -
-			- [ ] Episode 19 - 
-			- [ ] Episode 20 - 
-			- [ ] Episode 21 -
+			- [ ] Episode 1 - "Monster Lake"
+			- [ ] Episode 2 - "Down on the Farm"
+			- [ ] Episode 3 - "Gadget at the Circus"
+			- [ ] Episode 4 - "The Amazon"
+			- [ ] Episode 5 - "Health Spa"
+			- [ ] Episode 6 - "The Boat"
+			- [ ] Episode 7 - "Haunted Castle"
+			- [ ] Episode 8 - "Race to the Finish"
+			- [ ] Episode 9 - "The Ruby"
+			- [ ] Episode 10 - "A Star is Lost"
+			- [ ] Episode 11 - "All That Glitters"
+			- [ ] Episode 12 - "Movie Set"
+			- [ ] Episode 13 - "Amusement Park"
+			- [ ] Episode 14 - "Art Heist"
+			- [ ] Episode 15 - "Volcano Island"
+			- [ ] Episode 16 - "The Invasion"
+			- [ ] Episode 17 - "The Infiltration"
+			- [ ] Episode 18 - "The Curse of the Pharaoh"
+			- [ ] Episode 19 - "M.A.D Trap"
+			- [ ] Episode 20 - "Basic Training" 
+			- [ ] Episode 21 - "Sleeping Gas"
+			- [ ] Episode 22 - "Gadget's Replacement"
+			- [ ] Episode 23 - "Greenfinger"
+			- [ ] Episode 24 - "Gadget Goes West"
+			- [ ] Episode 25 - "Launch Time"
+			- [ ] Episode 26 - "Photo Safari"
+			- [ ] Episode 27 - "Coo-Coo Clock Caper"
+			- [ ] Episode 28 - "The Bermuda Triangle"
+			- [ ] Episode 29 - "The Japanese Connection"
+			- [ ] Episode 30 - "Arabian Nights"
+			- [ ] Episode 31 - "Clear Case"
+			- [ ] Episode 32 - "Dutch Treat"
+			- [ ] Episode 33 - "The Great Divide"
+			- [ ] Episode 34 - "Eye of the Dragon"
+			- [ ] Episode 35 - "Doubled Agent"
+			- [ ] Episode 36 - "Plantform of the Opera"
+			- [ ] Episode 37 - "Don't Hold Your Breath"
+			- [ ] Episode 38 - "Gone Went the Wind"
+			- [ ] Episode 39 - "King Wrong"
+			- [ ] Episode 40 - "Pirate Island"
+			- [ ] Episode 41 - "M.A.D Academy"
+			- [ ] Episode 42 - "No Flies on Us"
+			- [ ] Episode 43 - "Luck of the Irish"
+			- [ ] Episode 44 - "Prince of the Gypsies"
+			- [ ] Episode 45 - "Old Man of the Mountain"
+			- [ ] Episode 46 - "The Emerald Duck"
+			- [ ] Episode 47 - "Do Unto Udders"
+			- [ ] Episode 48 - "Did You Myth Me?"
+			- [ ] Episode 49 - "A Bad Altitude"
+			- [ ] Episode 50 - "Funny Money"
+			- [ ] Episode 51 - "Follow That Jet"
+			- [ ] Episode 52 - "Dry Spell"
+			- [ ] Episode 53 - "Smeldorado"
+			- [ ] Episode 54 - "Quimby Exchange"
+			- [ ] Episode 55 - "Weather in Tibet"
+			- [ ] Episode 56 - "Unhenged"
+			- [ ] Episode 57 - "Snaking' All Over"
+			- [ ] Episode 58 - "In Seine"
+			- [ ] Episode 59 - "Tree Guesses"
+			- [ ] Episode 60 - "Birds of a Feather"
+			- [ ] Episode 61 - "So It is Written"
+			- [ ] Episode 62 - "Fang the Wonder Dog"
+			- [ ] Episode 63 - "School for Pickpockets"
+			- [ ] Episode 64 - "Quizz Master"
+			- [ ] Episode 65 - "Gadget in Winterland"
 		- [b] Season 2
 			- [ ] Episode 1 - "Gadget in Minimadness"
 			- [ ] Episode 2 - "The Incredible Shinking Ray"
@@ -998,24 +1042,24 @@
 		- [x] Episode 8 - "The World Vs Scott Pilgrim"
 	- [*] Smiling Friends
 		- [*] Season 1
-			- [x] Episode 1 - Desmond's Big Day Out
-			- [x] Episode 2 - Mr. Frog
-			- [x] Episode 3 - Shrimp's Odyssey
-			- [x] Episode 4 - A Silly Halloween Special
-			- [x] Episode 5 -  Who Violently Murdered Simon S. Salty
-			- [x] Episode 6 - Enchanted Forest
-			- [x] Episode 7 - Frowning Friends
-			- [x] Episode 8 - Charlie Dies and Doesn't Come Back
-			- [x] Episode 9 - The Smiling Friends Go to Brazil!
+			- [x] Episode 1 - "Desmond's Big Day Out"
+			- [x] Episode 2 - "Mr. Frog"
+			- [x] Episode 3 - "Shrimp's Odyssey"
+			- [x] Episode 4 - "A Silly Halloween Special"
+			- [x] Episode 5 -  "Who Violently Murdered Simon S. Salty"
+			- [x] Episode 6 - "Enchanted Forest"
+			- [x] Episode 7 - "Frowning Friends"
+			- [x] Episode 8 - "Charlie Dies and Doesn't Come Back"
+			- [x] Episode 9 - "The Smiling Friends Go to Brazil!"
 		- [*] Season 2 
-			- [x] Episode 1 - Gwimbly: Definitive Remastered Enhanced Extended Edition with DX 4K (Anniversary Director's Cut)
-			- [x] Episode 2 - Mr. President
-			- [x] Episode 3 - A Allan Adventure
-			- [x] Episode 4 - Erm, the Boss Finds Love?
-			- [x] Episode 5 - Brother's Egg
-			- [x] Episode 6 - Charlie, Pim, and Bill vs. the Alien
-			- [x] Episode 7 - The Magical Rd Jewel AKA Tyler Gets Fired
-			- [x] Episode 8 - Pim Finally Turns Green
+			- [x] Episode 1 - "Gwimbly: Definitive Remastered Enhanced Extended Edition with DX 4K (Anniversary Director's Cut)"
+			- [x] Episode 2 - "Mr. President"
+			- [x] Episode 3 - "An Allan Adventure"
+			- [x] Episode 4 - "Erm, the Boss Finds Love?"
+			- [x] Episode 5 - "Brother's Egg"
+			- [x] Episode 6 - "Charlie, Pim, and Bill vs. the Alien"
+			- [x] Episode 7 - "The Magical Red Jewel AKA Tyler Gets Fired"
+			- [x] Episode 8 - "Pim Finally Turns Green"
 	- [?] Sonic Boom 
 		- [u] Season 1
 			- [x] Episode 1 - "The Sidekick"
