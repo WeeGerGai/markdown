@@ -25,6 +25,10 @@
 	- [b] Smurfs
 		- [b] Smurfs 1
 		- [b] Smurfs 2
+	- [*] Spider-Man 
+		- [*] Spider-Man 1
+		- [*] Spider-Man 2
+		- [*] Spider-Man 3
 	- [b] Strays (2023)
 	- [*] The Truman Show
 	- [*] WALL-E
